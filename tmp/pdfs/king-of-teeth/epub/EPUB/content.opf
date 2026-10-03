@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2026-09-27T18:20:42Z</meta>
+    <meta name="generator" content="Ebook-lib 0.20.0"/>
+    <dc:identifier id="id">king-of-teeth-blood-code-1</dc:identifier>
+    <dc:title>King of Teeth</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator id="creator">Aurelia Thorn</dc:creator>
+    <dc:description>Every woman he feeds on forgets him. She's the one who stayed. A vampire king hunting his father's killer. A half-wolf bartender hunting hers. A blood pact, a traitor in the house, and a monster who has never once been seen for what he is, until now.</dc:description>
+    <dc:publisher>Aurelia Thorn</dc:publisher>
+    <dc:date>2026</dc:date>
+    <dc:rights>Copyright © 2026 Aurelia Thorn. All rights reserved.</dc:rights>
+    <dc:subject>Fiction / Romance / Paranormal / Vampires</dc:subject>
+    <dc:subject>Fiction / Romance / Dark</dc:subject>
+    <meta property="belongs-to-collection" id="series">The Blood Code</meta>
+    <meta refines="#series" property="collection-type">series</meta>
+    <meta refines="#series" property="group-position">1</meta>
+    <meta name="calibre:series" content="The Blood Code"></meta>
+    <meta name="calibre:series_index" content="1"></meta>
+  </metadata>
+  <manifest>
+    <item href="fonts/CrimsonText-Regular.ttf" id="CrimsonText-Regular.ttf" media-type="font/ttf"/>
+    <item href="fonts/CrimsonText-Italic.ttf" id="CrimsonText-Italic.ttf" media-type="font/ttf"/>
+    <item href="fonts/CrimsonText-SemiBold.ttf" id="CrimsonText-SemiBold.ttf" media-type="font/ttf"/>
+    <item href="fonts/CrimsonText-BoldItalic.ttf" id="CrimsonText-BoldItalic.ttf" media-type="font/ttf"/>
+    <item href="fonts/CormorantGaramond-SemiBold.ttf" id="CormorantGaramond-SemiBold.ttf" media-type="font/ttf"/>
+    <item href="fonts/CormorantGaramond-MediumItalic.ttf" id="CormorantGaramond-MediumItalic.ttf" media-type="font/ttf"/>
+    <item href="fonts/CormorantGaramond-Bold.ttf" id="CormorantGaramond-Bold.ttf" media-type="font/ttf"/>
+    <item href="fonts/KoTSmallCaps-SemiBold.ttf" id="KoTSmallCaps-SemiBold.ttf" media-type="font/ttf"/>
+    <item href="images/fleuron.png" id="fleuron" media-type="image/png"/>
+    <item href="images/scene.png" id="scene" media-type="image/png"/>
+    <item href="images/crown.png" id="crown" media-type="image/png"/>
+    <item href="style/book.css" id="css" media-type="text/css"/>
+    <item href="title.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="front-0.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="front-1.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="front-2.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="contents.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="prologue.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="ch-01.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="ch-02.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="ch-03.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="I-1.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="ch-04.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="ch-05.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="ch-06.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="ch-07.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="ch-08.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="ch-09.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="I-2.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="ch-10.xhtml" id="chapter_17" media-type="application/xhtml+xml"/>
+    <item href="ch-11.xhtml" id="chapter_18" media-type="application/xhtml+xml"/>
+    <item href="ch-12.xhtml" id="chapter_19" media-type="application/xhtml+xml"/>
+    <item href="ch-13.xhtml" id="chapter_20" media-type="application/xhtml+xml"/>
+    <item href="ch-14.xhtml" id="chapter_21" media-type="application/xhtml+xml"/>
+    <item href="ch-15.xhtml" id="chapter_22" media-type="application/xhtml+xml"/>
+    <item href="ch-16.xhtml" id="chapter_23" media-type="application/xhtml+xml"/>
+    <item href="ch-17.xhtml" id="chapter_24" media-type="application/xhtml+xml"/>
+    <item href="I-3.xhtml" id="chapter_25" media-type="application/xhtml+xml"/>
+    <item href="ch-18.xhtml" id="chapter_26" media-type="application/xhtml+xml"/>
+    <item href="ch-19.xhtml" id="chapter_27" media-type="application/xhtml+xml"/>
+    <item href="ch-20.xhtml" id="chapter_28" media-type="application/xhtml+xml"/>
+    <item href="ch-21.xhtml" id="chapter_29" media-type="application/xhtml+xml"/>
+    <item href="ch-22.xhtml" id="chapter_30" media-type="application/xhtml+xml"/>
+    <item href="ch-23.xhtml" id="chapter_31" media-type="application/xhtml+xml"/>
+    <item href="ch-24.xhtml" id="chapter_32" media-type="application/xhtml+xml"/>
+    <item href="ch-25.xhtml" id="chapter_33" media-type="application/xhtml+xml"/>
+    <item href="I-4.xhtml" id="chapter_34" media-type="application/xhtml+xml"/>
+    <item href="ch-26.xhtml" id="chapter_35" media-type="application/xhtml+xml"/>
+    <item href="ch-27.xhtml" id="chapter_36" media-type="application/xhtml+xml"/>
+    <item href="ch-28.xhtml" id="chapter_37" media-type="application/xhtml+xml"/>
+    <item href="ch-29.xhtml" id="chapter_38" media-type="application/xhtml+xml"/>
+    <item href="ch-30.xhtml" id="chapter_39" media-type="application/xhtml+xml"/>
+    <item href="I-5.xhtml" id="chapter_40" media-type="application/xhtml+xml"/>
+    <item href="ch-31.xhtml" id="chapter_41" media-type="application/xhtml+xml"/>
+    <item href="ch-32.xhtml" id="chapter_42" media-type="application/xhtml+xml"/>
+    <item href="ch-33.xhtml" id="chapter_43" media-type="application/xhtml+xml"/>
+    <item href="ch-34.xhtml" id="chapter_44" media-type="application/xhtml+xml"/>
+    <item href="ch-35.xhtml" id="chapter_45" media-type="application/xhtml+xml"/>
+    <item href="ch-36.xhtml" id="chapter_46" media-type="application/xhtml+xml"/>
+    <item href="epilogue.xhtml" id="chapter_47" media-type="application/xhtml+xml"/>
+    <item href="bonus-ghost-that-stayed.xhtml" id="chapter_48" media-type="application/xhtml+xml"/>
+    <item href="back-0.xhtml" id="chapter_49" media-type="application/xhtml+xml"/>
+    <item href="back-1.xhtml" id="chapter_50" media-type="application/xhtml+xml"/>
+    <item href="back-2.xhtml" id="chapter_51" media-type="application/xhtml+xml"/>
+    <item href="teaser-vow-of-poison.xhtml" id="chapter_52" media-type="application/xhtml+xml"/>
+    <item href="end.xhtml" id="chapter_53" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+    <itemref idref="chapter_23"/>
+    <itemref idref="chapter_24"/>
+    <itemref idref="chapter_25"/>
+    <itemref idref="chapter_26"/>
+    <itemref idref="chapter_27"/>
+    <itemref idref="chapter_28"/>
+    <itemref idref="chapter_29"/>
+    <itemref idref="chapter_30"/>
+    <itemref idref="chapter_31"/>
+    <itemref idref="chapter_32"/>
+    <itemref idref="chapter_33"/>
+    <itemref idref="chapter_34"/>
+    <itemref idref="chapter_35"/>
+    <itemref idref="chapter_36"/>
+    <itemref idref="chapter_37"/>
+    <itemref idref="chapter_38"/>
+    <itemref idref="chapter_39"/>
+    <itemref idref="chapter_40"/>
+    <itemref idref="chapter_41"/>
+    <itemref idref="chapter_42"/>
+    <itemref idref="chapter_43"/>
+    <itemref idref="chapter_44"/>
+    <itemref idref="chapter_45"/>
+    <itemref idref="chapter_46"/>
+    <itemref idref="chapter_47"/>
+    <itemref idref="chapter_48"/>
+    <itemref idref="chapter_49"/>
+    <itemref idref="chapter_50"/>
+    <itemref idref="chapter_51"/>
+    <itemref idref="chapter_52"/>
+    <itemref idref="chapter_53"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Contents" href="contents.xhtml"/>
+    <reference type="text" title="Start Reading" href="prologue.xhtml"/>
+  </guide>
+</package>

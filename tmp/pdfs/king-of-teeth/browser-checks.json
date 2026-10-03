@@ -1,0 +1,426 @@
+[
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "title"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Chapter One",
+        "top": 93.21875,
+        "bottom": 164.6875
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "ch-01"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Chapter Twenty-Four",
+        "top": 93.21875,
+        "bottom": 164.6875
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "ch-24"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Cassian",
+        "top": 121.125,
+        "bottom": 169.765625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "I-1"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Prologue",
+        "top": 80.109375,
+        "bottom": 128.75
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "prologue"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Contents",
+        "top": 80.109375,
+        "bottom": 128.75
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "contents"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "The Ghost That Stayed",
+        "top": 107.453125,
+        "bottom": 204.734375
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "bonus-ghost-that-stayed"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Vow of Poison",
+        "top": 107.453125,
+        "bottom": 156.09375
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "phone",
+    "section": "teaser-vow-of-poison"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "title"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Chapter One",
+        "top": 127.828125,
+        "bottom": 235.03125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "ch-01"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Chapter Twenty-Four",
+        "top": 127.828125,
+        "bottom": 235.03125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "ch-24"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Cassian",
+        "top": 169.734375,
+        "bottom": 242.703125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "I-1"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Prologue",
+        "top": 108.171875,
+        "bottom": 181.140625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "prologue"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Contents",
+        "top": 108.171875,
+        "bottom": 181.140625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "contents"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "The Ghost That Stayed",
+        "top": 149.21875,
+        "bottom": 295.15625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "bonus-ghost-that-stayed"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Vow of Poison",
+        "top": 187.703125,
+        "bottom": 260.671875
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "large",
+    "section": "teaser-vow-of-poison"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "title"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Chapter One",
+        "top": 100.90625,
+        "bottom": 180.3125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "ch-01"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Chapter Twenty-Four",
+        "top": 100.90625,
+        "bottom": 180.3125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "ch-24"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Cassian",
+        "top": 131.9375,
+        "bottom": 185.984375
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "I-1"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Prologue",
+        "top": 86.34375,
+        "bottom": 140.390625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "prologue"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Contents",
+        "top": 86.34375,
+        "bottom": 140.390625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "contents"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "The Ghost That Stayed",
+        "top": 116.734375,
+        "bottom": 224.828125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "bonus-ghost-that-stayed"
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "heads": [
+      {
+        "text": "Vow of Poison",
+        "top": 116.734375,
+        "bottom": 170.78125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "dark",
+    "section": "teaser-vow-of-poison"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "title"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "Chapter One",
+        "top": 122.90625,
+        "bottom": 202.3125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "ch-01"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "Chapter Twenty-Four",
+        "top": 122.90625,
+        "bottom": 202.3125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "ch-24"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "Cassian",
+        "top": 153.9375,
+        "bottom": 207.984375
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "I-1"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "Prologue",
+        "top": 108.34375,
+        "bottom": 162.390625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "prologue"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "Contents",
+        "top": 108.34375,
+        "bottom": 162.390625
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "contents"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "The Ghost That Stayed",
+        "top": 138.734375,
+        "bottom": 192.78125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "bonus-ghost-that-stayed"
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "heads": [
+      {
+        "text": "Vow of Poison",
+        "top": 138.734375,
+        "bottom": 192.78125
+      }
+    ],
+    "fonts": "loaded",
+    "mode": "tablet",
+    "section": "teaser-vow-of-poison"
+  }
+]

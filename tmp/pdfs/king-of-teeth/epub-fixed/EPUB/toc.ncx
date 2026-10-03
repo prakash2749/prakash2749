@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="king-of-teeth-blood-code-1" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>King of Teeth</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>Before You Begin</text>
+      </navLabel>
+      <content src="front-2.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>Chapter One · Selene</text>
+      </navLabel>
+      <content src="ch-01.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>Chapter Two · Lucian</text>
+      </navLabel>
+      <content src="ch-02.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>Chapter Three · Lucian</text>
+      </navLabel>
+      <content src="ch-03.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>Interlude I · Cassian</text>
+      </navLabel>
+      <content src="I-1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>Chapter Four · Selene</text>
+      </navLabel>
+      <content src="ch-04.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>Chapter Five · Lucian</text>
+      </navLabel>
+      <content src="ch-05.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>Chapter Six · Selene</text>
+      </navLabel>
+      <content src="ch-06.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>Chapter Seven · Lucian</text>
+      </navLabel>
+      <content src="ch-07.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>Chapter Eight · Lucian</text>
+      </navLabel>
+      <content src="ch-08.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>Chapter Nine · Selene</text>
+      </navLabel>
+      <content src="ch-09.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>Interlude II · Cassian</text>
+      </navLabel>
+      <content src="I-2.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>Chapter Ten · Selene</text>
+      </navLabel>
+      <content src="ch-10.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_19">
+      <navLabel>
+        <text>Chapter Eleven · Lucian</text>
+      </navLabel>
+      <content src="ch-11.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_20">
+      <navLabel>
+        <text>Chapter Twelve · Selene</text>
+      </navLabel>
+      <content src="ch-12.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_21">
+      <navLabel>
+        <text>Chapter Thirteen · Lucian</text>
+      </navLabel>
+      <content src="ch-13.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_22">
+      <navLabel>
+        <text>Chapter Fourteen · Lucian</text>
+      </navLabel>
+      <content src="ch-14.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_23">
+      <navLabel>
+        <text>Chapter Fifteen · Selene</text>
+      </navLabel>
+      <content src="ch-15.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_24">
+      <navLabel>
+        <text>Chapter Sixteen · Lucian</text>
+      </navLabel>
+      <content src="ch-16.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_25">
+      <navLabel>
+        <text>Chapter Seventeen · Selene</text>
+      </navLabel>
+      <content src="ch-17.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_26">
+      <navLabel>
+        <text>Interlude III · Cassian</text>
+      </navLabel>
+      <content src="I-3.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_27">
+      <navLabel>
+        <text>Chapter Eighteen · Lucian</text>
+      </navLabel>
+      <content src="ch-18.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_28">
+      <navLabel>
+        <text>Chapter Nineteen · Selene</text>
+      </navLabel>
+      <content src="ch-19.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_29">
+      <navLabel>
+        <text>Chapter Twenty · Lucian</text>
+      </navLabel>
+      <content src="ch-20.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_30">
+      <navLabel>
+        <text>Chapter Twenty-One · Lucian</text>
+      </navLabel>
+      <content src="ch-21.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_31">
+      <navLabel>
+        <text>Chapter Twenty-Two · Lucian</text>
+      </navLabel>
+      <content src="ch-22.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_32">
+      <navLabel>
+        <text>Chapter Twenty-Three · Selene</text>
+      </navLabel>
+      <content src="ch-23.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_33">
+      <navLabel>
+        <text>Chapter Twenty-Four · Selene</text>
+      </navLabel>
+      <content src="ch-24.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_34">
+      <navLabel>
+        <text>Chapter Twenty-Five · Selene</text>
+      </navLabel>
+      <content src="ch-25.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_35">
+      <navLabel>
+        <text>Interlude IV · Cassian</text>
+      </navLabel>
+      <content src="I-4.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_36">
+      <navLabel>
+        <text>Chapter Twenty-Six · Lucian</text>
+      </navLabel>
+      <content src="ch-26.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_37">
+      <navLabel>
+        <text>Chapter Twenty-Seven · Selene</text>
+      </navLabel>
+      <content src="ch-27.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_38">
+      <navLabel>
+        <text>Chapter Twenty-Eight · Selene</text>
+      </navLabel>
+      <content src="ch-28.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_39">
+      <navLabel>
+        <text>Chapter Twenty-Nine · Lucian</text>
+      </navLabel>
+      <content src="ch-29.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_40">
+      <navLabel>
+        <text>Chapter Thirty · Lucian</text>
+      </navLabel>
+      <content src="ch-30.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_41">
+      <navLabel>
+        <text>Interlude V · Cassian</text>
+      </navLabel>
+      <content src="I-5.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_42">
+      <navLabel>
+        <text>Chapter Thirty-One · Selene</text>
+      </navLabel>
+      <content src="ch-31.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_43">
+      <navLabel>
+        <text>Chapter Thirty-Two · Selene</text>
+      </navLabel>
+      <content src="ch-32.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_44">
+      <navLabel>
+        <text>Chapter Thirty-Three · Selene</text>
+      </navLabel>
+      <content src="ch-33.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_45">
+      <navLabel>
+        <text>Chapter Thirty-Four · Lucian</text>
+      </navLabel>
+      <content src="ch-34.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_46">
+      <navLabel>
+        <text>Chapter Thirty-Five · Lucian</text>
+      </navLabel>
+      <content src="ch-35.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_47">
+      <navLabel>
+        <text>Chapter Thirty-Six · Selene</text>
+      </navLabel>
+      <content src="ch-36.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_48">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="epilogue.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_58">
+      <navLabel>
+        <text>Bonus Scene: The Ghost That Stayed</text>
+      </navLabel>
+      <content src="bonus-ghost-that-stayed.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_59">
+      <navLabel>
+        <text>The Blood Code</text>
+      </navLabel>
+      <content src="back-0.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_60">
+      <navLabel>
+        <text>Playlist</text>
+      </navLabel>
+      <content src="back-1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_61">
+      <navLabel>
+        <text>Thank You</text>
+      </navLabel>
+      <content src="back-2.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_62">
+      <navLabel>
+        <text>Sneak Peek: Vow of Poison</text>
+      </navLabel>
+      <content src="teaser-vow-of-poison.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,81 @@
+@font-face { font-family: "Crimson Text"; font-weight: normal; font-style: normal; src: url("../fonts/CrimsonText-Regular.ttf"); }
+@font-face { font-family: "Crimson Text"; font-weight: normal; font-style: italic; src: url("../fonts/CrimsonText-Italic.ttf"); }
+@font-face { font-family: "Crimson Text"; font-weight: bold; font-style: normal; src: url("../fonts/CrimsonText-SemiBold.ttf"); }
+@font-face { font-family: "Crimson Text"; font-weight: bold; font-style: italic; src: url("../fonts/CrimsonText-BoldItalic.ttf"); }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 600; font-style: normal; src: url("../fonts/CormorantGaramond-SemiBold.ttf"); }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-style: italic; src: url("../fonts/CormorantGaramond-MediumItalic.ttf"); }
+@font-face { font-family: "Cormorant Garamond"; font-weight: bold; font-style: normal; src: url("../fonts/CormorantGaramond-Bold.ttf"); }
+@font-face { font-family: "KoT Small Caps"; font-weight: normal; font-style: normal; src: url("../fonts/KoTSmallCaps-SemiBold.ttf"); }
+@page { margin: 5%; }
+body { font-family: "Crimson Text", Georgia, serif; line-height: 1.5; margin: 0; padding: 0;
+        orphans: 2; widows: 2; }
+.book-section { page-break-before: always; break-before: page; }
+p { margin: 0; text-indent: 1.3em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+p.first, p.after-break, p.noindent { text-indent: 0; }
+p.first { orphans: 3; }
+span.dropcap { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600;
+        font-size: 2.6em; line-height: 0; vertical-align: baseline; color: #6e1b1b; }
+span.lead { font-family: "KoT Small Caps", "Cormorant Garamond", Georgia, serif;
+        font-variant: small-caps; text-transform: lowercase; letter-spacing: 0.04em; }
+.head { text-align: center; margin: 2.6em 0 1.8em; page-break-inside: avoid; break-inside: avoid;
+        page-break-after: avoid; break-after: avoid; }
+.head p { text-indent: 0; text-align: center; }
+.head h1, .head p { hyphens: none; -webkit-hyphens: none; }
+.chapter-label { display: block; font-family: "KoT Small Caps", Georgia, serif; font-variant: small-caps;
+        font-size: 0.4em; font-style: normal; letter-spacing: 0.28em; margin: 0.9em 0 0.2em; }
+.chapter-number { display: block; }
+.label { font-family: "KoT Small Caps", "Cormorant Garamond", serif; font-variant: small-caps;
+        letter-spacing: 0.28em; font-size: 0.95em; color: #5a5a5a; margin: 0.9em 0 0.1em 0; }
+h1.num, h1.title { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic;
+        font-weight: 500; font-size: 2.35em; line-height: 1.15; margin: 0.05em 0 0.15em 0;
+        color: inherit; }
+.pov { font-family: "KoT Small Caps", "Cormorant Garamond", serif; font-variant: small-caps;
+        letter-spacing: 0.32em; font-size: 1.05em; margin: 0.2em 0 0 0; color: #6e1b1b; }
+.sub { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: 1.1em;
+        color: #555; margin-top: 0.3em; }
+p.orn { text-align: center; text-indent: 0; margin: 0; }
+p.orn img { width: 38%; max-width: 12em; height: auto; }
+p.scene { text-align: center; text-indent: 0; margin: 1.1em 0;
+        page-break-inside: avoid; break-inside: avoid; page-break-after: avoid; break-after: avoid; }
+p.scene img { width: 18%; max-width: 5em; height: auto; }
+.pov-shift { text-align: center; margin: 1.8em 0 0.9em 0;
+        page-break-inside: avoid; break-inside: avoid; page-break-after: avoid; break-after: avoid; }
+.head + .pov-shift { margin-top: 0; }
+.pov-shift p { text-indent: 0; text-align: center; }
+.titlepage { text-align: center; margin-top: 18%; }
+.titlepage p { text-indent: 0; text-align: center; }
+.t-big { font-family: "Cormorant Garamond", Georgia, serif; font-weight: bold; font-size: 3.1em;
+        letter-spacing: 0.14em; line-height: 1.05; margin: 0; color: inherit; }
+.t-of { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic; font-size: 1.5em;
+        color: #555; margin: 0; }
+.t-series { font-family: "KoT Small Caps", "Cormorant Garamond", serif; font-variant: small-caps;
+        letter-spacing: 0.25em; color: #555; margin-top: 0.8em; }
+.t-author { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600;
+        letter-spacing: 0.3em; font-size: 1.2em; margin-top: 3.2em; }
+.copyright { font-size: 0.8em; margin-top: 30%; }
+.copyright p { text-indent: 0; margin-bottom: 0.7em; text-align: left; }
+.dedication { margin-top: 30%; text-align: center; }
+.dedication p { font-family: "Cormorant Garamond", Georgia, serif; font-style: italic;
+        font-size: 1.3em; text-indent: 0; text-align: center; margin-bottom: 0.3em; }
+.matter p { text-indent: 0; margin-bottom: 0.7em; }
+.matter p.c { text-align: center; }
+.matter ul { margin: 0.2em 0 0.9em 1.2em; padding: 0; }
+.matter li { margin-bottom: 0.35em; text-align: left; }
+.list p { text-align: center; text-indent: 0; margin-bottom: 0.45em; }
+.contents p { text-indent: 0; text-align: left; margin: 0; padding: 0.5em 0;
+        border-bottom: 1px solid #bbb; page-break-inside: avoid; break-inside: avoid; }
+.contents a { color: inherit; text-decoration: none; display: block; }
+.contents .toc-pov { font-style: italic; font-size: 0.9em; }
+.end { text-align: center; margin-top: 30%; }
+.end p { text-indent: 0; text-align: center; }
+@media (prefers-color-scheme: dark) {
+  .label, .sub, .t-of, .t-series { color: inherit; }
+  .pov, span.dropcap { color: #dca2a2; }
+  .orn img, .scene img { filter: brightness(2.7); }
+}
+@media (max-width: 420px) {
+  .head { margin-top: 1.5em; margin-bottom: 1.3em; }
+  .t-big { font-size: 2.6em; letter-spacing: 0.08em; }
+  .t-author { letter-spacing: 0.16em; }
+  .label, .pov, .t-series { letter-spacing: 0.16em; }
+}

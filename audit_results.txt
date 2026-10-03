@@ -1,0 +1,1104 @@
+﻿
+=== 00-prologue.md ===
+words 926   paragraphs 66
+NARRATION  mean 8.8 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 87% (target 71, fail <65)   fragments <=4 words 22% (target ~21, fail <15)
+DIALOGUE   mean 3.0 (target 6.4, fail >8)   median 3 (target 5)   <=14 words 100% (target 92, fail <88)
+PARAGRAPHS 1-sentence 56% (target 48-54, fail <45)   1-3 sentences 98% (target 93, fail <88)
+           66 paragraphs, 14.0 words each (§2 implies ~16-25)
+  4 narration sentence(s) over 20 words:
+    [25] They're all facing the front, where the account of his death is being given by the only person here 
+    [24] Then his hand is on the back of my neck, the way it was when I was small enough for that to mean som
+    [21] Then he said the only justification for power is what it declines to do, and asked me to pass the wi
+    [21] Every House in the city and half the continent, all of them dressed for a war they want me to declar
+FRAGMENTS  22 runs = 23.8/1k words (§4 implies ~5.6, but see note)   sentence+1 90% (target 69)   cross a para break 68% (target 86)
+QUESTIONS  0 total (0 in narration) — this length wants 3-4
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+1 idiomatic one/two, uncounted]
+           durations 21.6/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! zero question marks — a POV chapter with no self-interrogation is under-pressured (§2)
+  !! durations 21.6/10k over ceiling 8: ['eight', 'four hundred']
+
+=== ch-01.md ===
+words 2003   paragraphs 123
+NARRATION  mean 10.5 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 73% (target 71, fail <65)   fragments <=4 words 15% (target ~21, fail <15)
+DIALOGUE   mean 7.1 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 89% (target 92, fail <88)
+PARAGRAPHS 1-sentence 54% (target 48-54, fail <45)   1-3 sentences 87% (target 93, fail <88)
+           123 paragraphs, 16.3 words each (§2 implies ~16-25)
+  8 narration sentence(s) over 20 words:
+    [24] With Thibault's people coming through the gallery I went for the platform, and by the time I got the
+    [23] She looks at me for a long moment, and something goes across her face that I think is respect and mi
+    [23] It goes into the record in those words, and every year after that, anybody who reopens it is a man i
+    [22] He crosses and takes the seat across the desk, and he sits down like a man with nowhere else to be t
+    [21] So I get up, and I go and find Silas, and I ask him the only thing I want to know.
+    [21] She has held the council together since Tuesday with nothing but a voice and the correct use of the 
+  1 dialogue sentence(s) over 18 words:
+    [39] "Ambroise is a physician, and you are the last Croix, and if you'd like a list of the things I've ha
+FRAGMENTS  14 runs = 7.0/1k words (§4 implies ~5.6, but see note)   sentence+1 78% (target 69)   cross a para break 21% (target 86)
+QUESTIONS  14 total (1 in narration) — this length wants 6-9
+ENDING     final paragraph 5 words (52% should be <=10, 27% <=5)  [question]
+NUMBERS    cardinals 4 = 20.0/10k (ceiling 30)  [+15 idiomatic one/two, uncounted]
+           durations 34.9/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eighty-nine', 'three', 'three hundred']
+FLAGS      
+  !! 1-3 sentence paragraphs 87% under the 88 floor
+  !! durations 34.9/10k over ceiling 8: ['eight hundred', 'eighty', 'four', 'hundred', 'hundred and fifty', 'one', 'three hundred']
+
+=== ch-02.md ===
+words 2061   paragraphs 92
+NARRATION  mean 11.6 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 69% (target 71, fail <65)   fragments <=4 words 29% (target ~21, fail <15)
+DIALOGUE   mean 4.2 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 100% (target 92, fail <88)
+PARAGRAPHS 1-sentence 36% (target 48-54, fail <45)   1-3 sentences 88% (target 93, fail <88)
+           92 paragraphs, 22.4 words each (§2 implies ~16-25)
+  31 narration sentence(s) over 20 words:
+    [40] He had a gift for hearing what a sentence meant underneath what it said, and he taught me to hear it
+    [38] The translation work dried up when my boss moved to Houston, and she offered to take me with her, an
+    [37] English says *she left.* In wolf there's a word that means the thing that happens to a limb the body
+    [35] Before that I was an assistant to a woman who translated contracts for the port authority, and befor
+    [34] The first one is English, which is what they're all speaking, and in English this is a bar where peo
+    [34] My name is Selene Ward and I work at a bar on Frenchmen Street where the tips are good and nobody ha
+FRAGMENTS  38 runs = 18.4/1k words (§4 implies ~5.6, but see note)   sentence+1 73% (target 69)   cross a para break 42% (target 86)
+QUESTIONS  5 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 5 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 8 = 38.8/10k (ceiling 30)  [+13 idiomatic one/two, uncounted]
+           durations 29.1/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 4.9/10k (ceiling 5)
+           cardinals: ['four', 'nine', 'three', 'twenty-seven']
+FLAGS      
+  !! single-sentence paragraphs 36% under the 45 floor
+  !! 5 question marks against 7-9 for this length — under-pressured; who is doubting anything here?
+  !! cardinals 38.8/10k over ceiling 30
+  !! durations 29.1/10k over ceiling 8: ['four', 'four', 'four', 'three', 'two', 'two']
+  !! restated duration {'four': 3} — state it once, trust the reader
+
+=== ch-03.md ===
+words 2118   paragraphs 124
+NARRATION  mean 12.0 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 66% (target 71, fail <65)   fragments <=4 words 29% (target ~21, fail <15)
+DIALOGUE   mean 6.6 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 88% (target 92, fail <88)
+PARAGRAPHS 1-sentence 51% (target 48-54, fail <45)   1-3 sentences 89% (target 93, fail <88)
+           124 paragraphs, 17.1 words each (§2 implies ~16-25)
+  25 narration sentence(s) over 20 words:
+    [36] He'd have left a bottle on a dock, probably, or a note in a box, because that was the kind of man he
+    [34] They're disciplined because I picked them to be, and Silas is at my shoulder, and the first wolf we 
+    [33] The morning has that clean look it gets after rain, and there's a delivery van at the kitchen entran
+    [33] Every House that's been waiting for a Croix to stop talking and start biting gets what they want, an
+    [31] We're through in under an hour and we're on the water heading back before the pack has organized a r
+    [31] Recognition — he's placing this on a list of orders he's been given over two centuries, and it's lan
+  1 dialogue sentence(s) over 18 words:
+    [26] "Ondine Marchand has kept it neutral for twenty years and she's never asked us for a thing, and I'd 
+FRAGMENTS  23 runs = 10.9/1k words (§4 implies ~5.6, but see note)   sentence+1 69% (target 69)   cross a para break 65% (target 86)
+QUESTIONS  11 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 20 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 7 = 33.1/10k (ceiling 30)  [+13 idiomatic one/two, uncounted]
+           durations 28.3/10k (ceiling 8)   digits 4.7/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eight', 'six', 'three']
+FLAGS      
+  !! cardinals 33.1/10k over ceiling 30
+  !! durations 28.3/10k over ceiling 8: ['eight hundred', 'forty', 'thirty', 'twenty', 'two', 'two']
+  !! bare digits 4.7/10k over ceiling 2
+
+=== ch-04.md ===
+words 1957   paragraphs 82
+NARRATION  mean 13.3 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 64% (target 71, fail <65)   fragments <=4 words 21% (target ~21, fail <15)
+DIALOGUE   mean 7.3 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 85% (target 92, fail <88)
+PARAGRAPHS 1-sentence 45% (target 48-54, fail <45)   1-3 sentences 86% (target 93, fail <88)
+           82 paragraphs, 23.9 words each (§2 implies ~16-25)
+  30 narration sentence(s) over 20 words:
+    [43] He brings the boat in bow-first, which I've been told is wrong for the slip but is how he does it, e
+    [41] I've known for years — talked to a man at a bar who described a wolf's vulnerable points while expla
+    [40] I have lived inside a single intention for four years, and I had a clear path to it today, and I lef
+    [40] Fast, and then done, and then the bus back, and the rest of my life would start, and the rest of my 
+    [39] I came in by bus and got off two stops early, and I'm walking the last mile on a road with no should
+    [38] Then she goes up the slope toward the houses, and I'm alone on the bench with a bottle of water and 
+FRAGMENTS  24 runs = 12.3/1k words (§4 implies ~5.6, but see note)   sentence+1 79% (target 69)   cross a para break 62% (target 86)
+QUESTIONS  1 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 6 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 3 = 15.3/10k (ceiling 30)  [+9 idiomatic one/two, uncounted]
+           durations 10.2/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['dozen', 'eleven']
+FLAGS      
+  !! only 64% of narration <=14 words (floor 65)
+  !! only 85% of dialogue <=14 words (floor 88)
+  !! 1-3 sentence paragraphs 86% under the 88 floor
+  !! 1 question marks against 6-8 for this length — under-pressured; who is doubting anything here?
+  !! durations 10.2/10k over ceiling 8: ['four', 'six']
+  !! 'file' as cognitive verb: ['filed under']
+
+=== ch-05.md ===
+words 1929   paragraphs 103
+NARRATION  mean 11.8 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 72% (target 71, fail <65)   fragments <=4 words 32% (target ~21, fail <15)
+DIALOGUE   mean 4.8 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 97% (target 92, fail <88)
+PARAGRAPHS 1-sentence 48% (target 48-54, fail <45)   1-3 sentences 94% (target 93, fail <88)
+           103 paragraphs, 18.7 words each (§2 implies ~16-25)
+  29 narration sentence(s) over 20 words:
+    [45] I take the prisoner by the arm and walk him up the dock, and behind us the six of my people go home 
+    [42] It takes him about as long as a held breath, and then he looks at the ground behind me — at the road
+    [41] There are things Silas does that I've stopped asking about, because the answers he gives are always 
+    [39] He turns and goes back into the water, and the two behind him follow, and they disappear into the ba
+    [37] He comes out of a house on the levee side with a rifle — a rifle, which is so human it almost earns 
+    [36] He would have put his hand on the man's shoulder and spoken to him the way he spoke to everyone — qu
+FRAGMENTS  34 runs = 17.6/1k words (§4 implies ~5.6, but see note)   sentence+1 64% (target 69)   cross a para break 61% (target 86)
+QUESTIONS  2 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 11 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 7 = 36.3/10k (ceiling 30)  [+15 idiomatic one/two, uncounted]
+           durations 0.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['fifty', 'forty', 'four', 'six', 'three']
+FLAGS      
+  !! fragments 32% — well over the 21 measured; check whether reflective passages are shredded
+  !! 2 question marks against 6-8 for this length — under-pressured; who is doubting anything here?
+  !! cardinals 36.3/10k over ceiling 30
+
+=== ch-06.md ===
+words 1749   paragraphs 77
+NARRATION  mean 13.1 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 65% (target 71, fail <65)   fragments <=4 words 22% (target ~21, fail <15)
+DIALOGUE   mean 5.5 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 96% (target 92, fail <88)
+PARAGRAPHS 1-sentence 41% (target 48-54, fail <45)   1-3 sentences 96% (target 93, fail <88)
+           77 paragraphs, 22.7 words each (§2 implies ~16-25)
+  31 narration sentence(s) over 20 words:
+    [54] She puts a five on the bar for a tonic water that cost three dollars, and she leaves, and I put the 
+    [43] Barataria is a green smear south of the canal, and the settlement is a cluster of dots near the wate
+    [40] The woman in the mirror is small, dark-haired, and she's going to a club where the most dangerous th
+    [39] I know this because the wolves in Tremé know it, and the wolves in Tremé know everything that happen
+    [38] I've stood on the sidewalk across from it and counted the cars, and the cars are always expensive an
+    [37] I put my keys in the small bag, the one with no room for anything else, and I lock the apartment doo
+  1 dialogue sentence(s) over 18 words:
+    [20] "My grandmother used to say when the gas leaks in Jean Lafitte, you stay on this side of the canal."
+FRAGMENTS  19 runs = 10.9/1k words (§4 implies ~5.6, but see note)   sentence+1 63% (target 69)   cross a para break 52% (target 86)
+QUESTIONS  5 total (0 in narration) — this length wants 6-7
+ENDING     final paragraph 5 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 11 = 62.9/10k (ceiling 30)  [+10 idiomatic one/two, uncounted]
+           durations 28.6/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eleven', 'five', 'four', 'nine', 'sixty', 'ten', 'three']
+FLAGS      
+  !! single-sentence paragraphs 41% under the 45 floor
+  !! 5 question marks against 6-7 for this length — under-pressured; who is doubting anything here?
+  !! cardinals 62.9/10k over ceiling 30
+  !! durations 28.6/10k over ceiling 8: ['four', 'four', 'two', 'two', 'two']
+  !! restated duration {'two': 3} — state it once, trust the reader
+
+=== ch-07.md ===
+words 1972   paragraphs 113
+NARRATION  mean 12.7 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 71% (target 71, fail <65)   fragments <=4 words 28% (target ~21, fail <15)
+DIALOGUE   mean 7.0 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 90% (target 92, fail <88)
+PARAGRAPHS 1-sentence 53% (target 48-54, fail <45)   1-3 sentences 89% (target 93, fail <88)
+           113 paragraphs, 17.5 words each (§2 implies ~16-25)
+  16 narration sentence(s) over 20 words:
+    [54] I've read Marguerite's account and Cassian's account and the account of three Elders who were in the
+    [51] He told me on the first night, sitting in the chair with his wrists tied and the lamp on the floor b
+    [51] Except the lamp, which Silas brought down on the first night because the wolf couldn't see in the da
+    [43] I go to the door and open it, and the hallway is cold and empty and stretches in both directions, an
+    [42] There's a change that happens in a body that has been braced for something that doesn't come — the s
+    [40] He's telling me because he was on a rail going through a window and he saw something, and the someth
+FRAGMENTS  14 runs = 7.1/1k words (§4 implies ~5.6, but see note)   sentence+1 57% (target 69)   cross a para break 57% (target 86)
+QUESTIONS  13 total (0 in narration) — this length wants 6-9
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 4 = 20.3/10k (ceiling 30)  [+9 idiomatic one/two, uncounted]
+           durations 25.4/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['forty-seven', 'thirty', 'three']
+FLAGS      
+  !! durations 25.4/10k over ceiling 8: ['two', 'two', 'two', 'two', 'two']
+  !! restated duration {'two': 5} — state it once, trust the reader
+  !! 'file' as cognitive verb: ['file it']
+
+=== ch-08.md ===
+words 2588   paragraphs 178
+NARRATION  mean 9.0 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 82% (target 71, fail <65)   fragments <=4 words 28% (target ~21, fail <15)
+DIALOGUE   mean 5.1 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 98% (target 92, fail <88)
+PARAGRAPHS 1-sentence 50% (target 48-54, fail <45)   1-3 sentences 96% (target 93, fail <88)
+           178 paragraphs, 14.5 words each (§2 implies ~16-25)
+  16 narration sentence(s) over 20 words:
+    [28] There's a version of the rest of tonight where I never think about this again, and I'm already most 
+    [26] It takes a moment and then there's nothing — no mark, no blood, a clean neck and a woman breathing l
+    [25] There's a rule about this, and the rule has one answer in it: a human who can't be smoothed doesn't 
+    [25] I don't look up at the hand that brought it, and a lifetime of knowing precisely who stands close to
+    [25] Her pulse is fast, and it's been fast since before I crossed the room, and it isn't the rhythm of so
+    [24] Then I take her jaw again and tip her face up, because the last part is the part that makes all of i
+FRAGMENTS  54 runs = 20.9/1k words (§4 implies ~5.6, but see note)   sentence+1 70% (target 69)   cross a para break 61% (target 86)
+QUESTIONS  8 total (3 in narration) — this length wants 8-11
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)  [dialogue]
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+19 idiomatic one/two, uncounted]
+           durations 7.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+SEX VOCAB  crude 2   soft 1   (target ~70:1)
+FLAGS      none
+
+=== ch-09.md ===
+words 2143   paragraphs 129
+NARRATION  mean 10.3 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 72% (target 71, fail <65)   fragments <=4 words 20% (target ~21, fail <15)
+DIALOGUE   mean 5.2 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 94% (target 92, fail <88)
+PARAGRAPHS 1-sentence 46% (target 48-54, fail <45)   1-3 sentences 97% (target 93, fail <88)
+           129 paragraphs, 16.6 words each (§2 implies ~16-25)
+  13 narration sentence(s) over 20 words:
+    [38] He stood in the middle of a service hallway with my blood in his mouth and looked at me like a door 
+    [32] My hand is on the push-bar and the night is right there, and I turn my head, because I need to know 
+    [28] One of them puts a hand out toward my chest without touching it, which is the politest way I have ev
+    [28] I have to fold him — a hand on top of his head so he doesn't take the frame with his skull, then his
+    [26] I put the King of New Orleans in the passenger seat of a car with a cracked windshield and a phone c
+    [26] He just holds it, and I think about what that hand was doing to me an hour ago, and I make myself st
+FRAGMENTS  33 runs = 15.4/1k words (§4 implies ~5.6, but see note)   sentence+1 84% (target 69)   cross a para break 48% (target 86)
+QUESTIONS  4 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 7 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+9 idiomatic one/two, uncounted]
+           durations 0.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! 4 question marks against 7-9 for this length — under-pressured; who is doubting anything here?
+
+=== ch-10.md ===
+words 1824   paragraphs 98
+NARRATION  mean 12.6 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 65% (target 71, fail <65)   fragments <=4 words 19% (target ~21, fail <15)
+DIALOGUE   mean 6.1 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 93% (target 92, fail <88)
+PARAGRAPHS 1-sentence 55% (target 48-54, fail <45)   1-3 sentences 96% (target 93, fail <88)
+           98 paragraphs, 18.6 words each (§2 implies ~16-25)
+  30 narration sentence(s) over 20 words:
+    [37] Then tonight a thing with the keys to this entire city put its mouth on my throat and *couldn't take
+    [34] His eyes come up to my face and stay there, and for the first time all night I feel how much of a ro
+    [34] He was going down, he knew it, and the last clean decision he made was to move every set of eyes in 
+    [34] He got a long look at it across a room, and I gave it to him for free, because I stopped at a door t
+    [34] He gets about a third of the way and then puts a hand down and stops, and I watch him decide not to 
+    [31] It came out of a drawer of his things and it's nothing special — a short blade with a wood handle an
+  1 dialogue sentence(s) over 18 words:
+    [24] "I've been thinking about that for most of the night, and I was unconscious for a good deal of it, w
+FRAGMENTS  21 runs = 11.5/1k words (§4 implies ~5.6, but see note)   sentence+1 80% (target 69)   cross a para break 57% (target 86)
+QUESTIONS  5 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 5 words (52% should be <=10, 27% <=5)  [dialogue]
+NUMBERS    cardinals 1 = 5.5/10k (ceiling 30)  [+12 idiomatic one/two, uncounted]
+           durations 11.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['twenty-two']
+FLAGS      
+  !! 5 question marks against 6-8 for this length — under-pressured; who is doubting anything here?
+  !! durations 11.0/10k over ceiling 8: ['four', 'four-hundred']
+
+=== ch-11.md ===
+words 2650   paragraphs 189
+NARRATION  mean 10.0 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 75% (target 71, fail <65)   fragments <=4 words 25% (target ~21, fail <15)
+DIALOGUE   mean 5.8 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 93% (target 92, fail <88)
+PARAGRAPHS 1-sentence 53% (target 48-54, fail <45)   1-3 sentences 95% (target 93, fail <88)
+           189 paragraphs, 14.0 words each (§2 implies ~16-25)
+  22 narration sentence(s) over 20 words:
+    [31] It's the temperature of the room she's always lived in, and she doesn't think about it, and she'd ha
+    [31] Her blood is the first new thing I have tasted in four hundred years, and I have been lying on this 
+    [30] Then she gets impatient with her own body and reaches down and gets my cock out, and there is a mome
+    [30] She puts a knee up on the bed beside me and takes my face in both hands, and then she stops, because
+    [30] She has to work for it and it isn't pretty and about a third of the way she has to stop, with her fo
+    [29] I sit there with a woman on my lap, in a room with no lock on the door, and do the thing I haven't d
+  1 dialogue sentence(s) over 18 words:
+    [24] "It's still lawful this morning, and if you want me to perform contrition to make the next part easi
+FRAGMENTS  33 runs = 12.5/1k words (§4 implies ~5.6, but see note)   sentence+1 63% (target 69)   cross a para break 51% (target 86)
+QUESTIONS  14 total (0 in narration) — this length wants 9-12
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 1 = 3.8/10k (ceiling 30)  [+15 idiomatic one/two, uncounted]
+           durations 7.5/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['three']
+SEX VOCAB  crude 7   soft 0   (target ~70:1)
+FLAGS      none
+
+=== ch-12.md ===
+words 1690   paragraphs 106
+NARRATION  mean 13.3 (target 11, fail >14)   median 10 (target 10, fail >12)
+           <=14 words 61% (target 71, fail <65)   fragments <=4 words 30% (target ~21, fail <15)
+DIALOGUE   mean 5.6 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 94% (target 92, fail <88)
+PARAGRAPHS 1-sentence 55% (target 48-54, fail <45)   1-3 sentences 95% (target 93, fail <88)
+           106 paragraphs, 15.9 words each (§2 implies ~16-25)
+  25 narration sentence(s) over 20 words:
+    [47] The door doesn't close all the way behind him, because nothing in this house closes all the way, and
+    [43] He said it without preamble — *there's a room, it's yours, don't go east* — and then he went to the 
+    [39] There's a kitchen where the human staff — the ones who know, the ones in the arrangement — eat toget
+    [35] But he's sitting on my bed in a room he gave me, and he looks tired in a way that isn't about sleep,
+    [34] There are at least three languages in this house, and he speaks one of them, and the one he doesn't 
+    [32] I want to translate what the Aldric woman said to me and show him what it looked like in the other l
+FRAGMENTS  21 runs = 12.4/1k words (§4 implies ~5.6, but see note)   sentence+1 71% (target 69)   cross a para break 61% (target 86)
+QUESTIONS  9 total (0 in narration) — this length wants 5-7
+ENDING     final paragraph 8 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 11.8/10k (ceiling 30)  [+12 idiomatic one/two, uncounted]
+           durations 5.9/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['three']
+FLAGS      
+  !! only 61% of narration <=14 words (floor 65)
+
+=== ch-13.md ===
+words 1625   paragraphs 78
+NARRATION  mean 13.2 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 65% (target 71, fail <65)   fragments <=4 words 26% (target ~21, fail <15)
+DIALOGUE   mean 6.5 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 86% (target 92, fail <88)
+PARAGRAPHS 1-sentence 47% (target 48-54, fail <45)   1-3 sentences 91% (target 93, fail <88)
+           78 paragraphs, 20.8 words each (§2 implies ~16-25)
+  24 narration sentence(s) over 20 words:
+    [53] Letters from Houses on the continent, from the Conclave — the continental authority that ratifies ki
+    [43] That's what I find when I go down to the archive room — not absence, which would be obvious and stup
+    [42] He's right about this and he's right about the archive and he's right about Ondine Marchand, and eve
+    [41] The investigation requires knowing what I'm looking at, and I don't — I've spent four centuries leav
+    [39] I write the name down and move on, because a man with no file is either an oversight or a person som
+    [38] I go back to the archive and I pull my father's body order — the one that tells Ambroise what he's p
+FRAGMENTS  19 runs = 11.7/1k words (§4 implies ~5.6, but see note)   sentence+1 73% (target 69)   cross a para break 47% (target 86)
+QUESTIONS  6 total (0 in narration) — this length wants 5-7
+ENDING     final paragraph 8 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 9 = 55.4/10k (ceiling 30)  [+6 idiomatic one/two, uncounted]
+           durations 30.8/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['forty-seven', 'fourteen', 'six', 'sixteen', 'ten', 'three', 'twenty-three']
+FLAGS      
+  !! only 86% of dialogue <=14 words (floor 88)
+  !! cardinals 55.4/10k over ceiling 30
+  !! durations 30.8/10k over ceiling 8: ['four', 'four', 'nine', 'sixteen', 'ten']
+
+=== ch-14.md ===
+words 2541   paragraphs 159
+NARRATION  mean 13.3 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 68% (target 71, fail <65)   fragments <=4 words 18% (target ~21, fail <15)
+DIALOGUE   mean 5.9 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 92% (target 92, fail <88)
+PARAGRAPHS 1-sentence 62% (target 48-54, fail <45)   1-3 sentences 94% (target 93, fail <88)
+           159 paragraphs, 16.0 words each (§2 implies ~16-25)
+  30 narration sentence(s) over 20 words:
+    [45] I tell her she's a good girl and a filthy little thing and that she came into this room to be used, 
+    [44] She sits down on the arm of the chair across from the desk and thinks about it, and I watch her turn
+    [43] Marguerite hears *insider*, and in about a minute she has the household on a list, and in an hour sh
+    [40] She squares it up with the edge, the way you'd straighten something on a mantel, and she does not lo
+    [40] She comes with her forehead down on the blotter and one hand crushing my father's handwriting into a
+    [39] It takes no time at all and costs me nothing, and I do not examine it, and if anyone asked I would s
+FRAGMENTS  22 runs = 8.7/1k words (§4 implies ~5.6, but see note)   sentence+1 81% (target 69)   cross a para break 72% (target 86)
+QUESTIONS  5 total (0 in narration) — this length wants 8-11
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 7 = 27.5/10k (ceiling 30)  [+16 idiomatic one/two, uncounted]
+           durations 15.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['dozen', 'five', 'four', 'six', 'three']
+SEX VOCAB  crude 2   soft 0   (target ~70:1)
+FLAGS      
+  !! 5 question marks against 8-11 for this length — under-pressured; who is doubting anything here?
+  !! durations 15.7/10k over ceiling 8: ['one', 'two', 'two', 'two hundred']
+
+=== ch-15.md ===
+words 1873   paragraphs 84
+NARRATION  mean 11.5 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 70% (target 71, fail <65)   fragments <=4 words 28% (target ~21, fail <15)
+DIALOGUE   mean 4.8 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 96% (target 92, fail <88)
+PARAGRAPHS 1-sentence 38% (target 48-54, fail <45)   1-3 sentences 88% (target 93, fail <88)
+           84 paragraphs, 22.3 words each (§2 implies ~16-25)
+  26 narration sentence(s) over 20 words:
+    [54] Rémy Thibodeaux goes to church, which is a sentence that makes no sense in wolf until you understand
+    [44] He'll work with it anyway, because Lucian told him to, and Silas does what Lucian tells him to with 
+    [43] I sit in my car outside a bait shop on the Lafitte highway and think about Delphine, who told me I s
+    [40] It's the shape of my days and the reason I learn things and the thing that gets me out of bed when t
+    [37] The order of the addresses makes a circuit that avoids the main roads through wolf territory, stays 
+    [33] I've seen him twice — once at the house, when Lucian told him I was staying, and Silas looked at me 
+FRAGMENTS  25 runs = 13.3/1k words (§4 implies ~5.6, but see note)   sentence+1 56% (target 69)   cross a para break 48% (target 86)
+QUESTIONS  5 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 8 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 3 = 16.0/10k (ceiling 30)  [+16 idiomatic one/two, uncounted]
+           durations 10.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['three', 'twenty-two']
+FLAGS      
+  !! single-sentence paragraphs 38% under the 45 floor
+  !! 5 question marks against 6-8 for this length — under-pressured; who is doubting anything here?
+  !! durations 10.7/10k over ceiling 8: ['four', 'four']
+  !! 'file' as cognitive verb: ['file it', 'file it']
+
+=== ch-16.md ===
+words 1401   paragraphs 78
+NARRATION  mean 14.5 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 58% (target 71, fail <65)   fragments <=4 words 30% (target ~21, fail <15)
+DIALOGUE   mean 6.4 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 90% (target 92, fail <88)
+PARAGRAPHS 1-sentence 56% (target 48-54, fail <45)   1-3 sentences 93% (target 93, fail <88)
+           78 paragraphs, 18.0 words each (§2 implies ~16-25)
+  18 narration sentence(s) over 20 words:
+    [54] The lie is in the room now, and the room is the same as it was before, and Cassian is walking down m
+    [48] Then I go down to the archive and I pull every letter Cassian has written to this house in the past 
+    [45] I pick up his glass and I put it on the shelf with the decanter, and I wipe the ring it left on the 
+    [38] My father was busy being a king, and Cassian was in the courtyard with a boy and a piece of steel, a
+    [38] He has a glass — he poured it himself on the way in, from the decanter on the shelf, and the fact th
+    [38] And I'm sitting here trying to decide whether a man who doesn't question a lie is a man who trusts y
+  1 dialogue sentence(s) over 18 words:
+    [20] "My father would have told them everything, and the council would have drafted a declaration before 
+FRAGMENTS  15 runs = 10.7/1k words (§4 implies ~5.6, but see note)   sentence+1 66% (target 69)   cross a para break 73% (target 86)
+QUESTIONS  7 total (0 in narration) — this length wants 4-6
+ENDING     final paragraph 3 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 1 = 7.1/10k (ceiling 30)  [+4 idiomatic one/two, uncounted]
+           durations 7.1/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['four']
+FLAGS      
+  !! narration mean 14.5 over 14
+  !! only 58% of narration <=14 words (floor 65)
+
+=== ch-17.md ===
+words 2516   paragraphs 170
+NARRATION  mean 11.9 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 68% (target 71, fail <65)   fragments <=4 words 33% (target ~21, fail <15)
+DIALOGUE   mean 5.1 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 96% (target 92, fail <88)
+PARAGRAPHS 1-sentence 57% (target 48-54, fail <45)   1-3 sentences 96% (target 93, fail <88)
+           170 paragraphs, 14.8 words each (§2 implies ~16-25)
+  35 narration sentence(s) over 20 words:
+    [58] I've been carrying this ledger since the funeral, and I've had four years to prepare for whatever wa
+    [43] His hands are on the wheel and his eyes are on the mirror, and something in his jaw is working the w
+    [42] And something in me — the thing that's been at full tension since the window broke, the spring and w
+    [39] He goes from the chair to the window in a way that doesn't have a middle to it — he was sitting, and
+    [38] That happened about ten minutes ago, and the stopping is worse than the shaking, because the stoppin
+    [38] It comes out of me without permission, wet and ugly and too loud for the car, and then we're both la
+FRAGMENTS  35 runs = 13.9/1k words (§4 implies ~5.6, but see note)   sentence+1 62% (target 69)   cross a para break 62% (target 86)
+QUESTIONS  12 total (0 in narration) — this length wants 8-11
+ENDING     final paragraph 7 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 5 = 19.9/10k (ceiling 30)  [+9 idiomatic one/two, uncounted]
+           durations 19.9/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['fifty-three', 'forty', 'three']
+SEX VOCAB  crude 0   soft 1   (target ~70:1)
+FLAGS      
+  !! fragments 33% — well over the 21 measured; check whether reflective passages are shredded
+  !! durations 19.9/10k over ceiling 8: ['four', 'four', 'ten', 'two', 'two']
+
+=== ch-18.md ===
+words 2073   paragraphs 114
+NARRATION  mean 11.9 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 70% (target 71, fail <65)   fragments <=4 words 28% (target ~21, fail <15)
+DIALOGUE   mean 7.0 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 90% (target 92, fail <88)
+PARAGRAPHS 1-sentence 57% (target 48-54, fail <45)   1-3 sentences 87% (target 93, fail <88)
+           114 paragraphs, 18.2 words each (§2 implies ~16-25)
+  23 narration sentence(s) over 20 words:
+    [39] He's telling me that the wolves were brought into that chamber not to kill a king but to provide a r
+    [37] One that means *monster* and one that means *the man who chose not to be.* And the difference betwee
+    [36] But the marks are the same, and the description fits, and a man asked about Gaspard's wife, and a ma
+    [36] A man who saw the last minutes of my father's life from the gallery rail, who has no stake in any ve
+    [35] The hand is wrong — neater than his, more deliberate, with a particular way of crossing a *t* that I
+    [34] The door is open and the room is dark and she's on her side with one hand off the edge of the bed, a
+FRAGMENTS  20 runs = 9.6/1k words (§4 implies ~5.6, but see note)   sentence+1 60% (target 69)   cross a para break 60% (target 86)
+QUESTIONS  9 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 14 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 6 = 28.9/10k (ceiling 30)  [+11 idiomatic one/two, uncounted]
+           durations 28.9/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['hundred', 'six', 'three', 'three hundred']
+FLAGS      
+  !! 1-3 sentence paragraphs 87% under the 88 floor
+  !! durations 28.9/10k over ceiling 8: ['forty', 'four hundred', 'ten', 'thirty', 'thirty', 'thirty']
+  !! restated duration {'thirty': 3} — state it once, trust the reader
+
+=== ch-19.md ===
+words 1602   paragraphs 83
+NARRATION  mean 12.9 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 67% (target 71, fail <65)   fragments <=4 words 25% (target ~21, fail <15)
+DIALOGUE   mean 7.0 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 89% (target 92, fail <88)
+PARAGRAPHS 1-sentence 54% (target 48-54, fail <45)   1-3 sentences 91% (target 93, fail <88)
+           83 paragraphs, 19.3 words each (§2 implies ~16-25)
+  24 narration sentence(s) over 20 words:
+    [45] That's a sentence that wants to be a paragraph, and the paragraph wants to be an accusation, and I c
+    [40] That's what four hundred years of being the strongest thing in every room teaches you — you carry th
+    [38] I lie in the dark in the King of New Orleans's bed and I listen to him not sleep, and somewhere in t
+    [37] He's right and I hate that he's right, because being worth killing is not the same as being worth ke
+    [37] A transaction with clear terms and a clear end — when I have Rémy, the pact is done, and I go back t
+    [36] His face does the thing it does when I've said something he didn't expect — a pause, a reassessment,
+FRAGMENTS  20 runs = 12.5/1k words (§4 implies ~5.6, but see note)   sentence+1 80% (target 69)   cross a para break 65% (target 86)
+QUESTIONS  2 total (1 in narration) — this length wants 5-7
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 12.5/10k (ceiling 30)  [+9 idiomatic one/two, uncounted]
+           durations 25.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['four', 'three']
+FLAGS      
+  !! 2 question marks against 5-7 for this length — under-pressured; who is doubting anything here?
+  !! durations 25.0/10k over ceiling 8: ['four', 'four hundred', 'four hundred', 'twenty']
+
+=== ch-20.md ===
+words 2094   paragraphs 133
+NARRATION  mean 13.9 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 64% (target 71, fail <65)   fragments <=4 words 26% (target ~21, fail <15)
+DIALOGUE   mean 6.2 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 87% (target 92, fail <88)
+PARAGRAPHS 1-sentence 61% (target 48-54, fail <45)   1-3 sentences 96% (target 93, fail <88)
+           133 paragraphs, 15.7 words each (§2 implies ~16-25)
+  28 narration sentence(s) over 20 words:
+    [56] The water runs over her cheek and her mouth is open and she's looking at me the way she looked at me
+    [50] And the pact is the same, and the terms are the same, and nothing has changed, and everything undern
+    [44] She gets in the shower and turns the water on without testing it first, which is either reckless or 
+    [43] She told me not to be gentle and I take her at her word, and the first stroke goes in hard enough th
+    [40] It's a thinness that comes from a body being in a constant state of readiness — muscles held, should
+    [38] She sat across from us at a kitchen table covered in jars and spoke about the brew the way a doctor 
+  2 dialogue sentence(s) over 18 words:
+    [27] "They'll know exactly what's happening in here and they'll know it's me, and tomorrow when you sit a
+    [23] "When the arrangement is done and the terms are met and there's nothing left between us except what 
+FRAGMENTS  21 runs = 10.0/1k words (§4 implies ~5.6, but see note)   sentence+1 71% (target 69)   cross a para break 61% (target 86)
+QUESTIONS  10 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 50 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 9.6/10k (ceiling 30)  [+11 idiomatic one/two, uncounted]
+           durations 19.1/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['forty-one', 'fourteen']
+SEX VOCAB  crude 5   soft 0   (target ~70:1)
+FLAGS      
+  !! only 64% of narration <=14 words (floor 65)
+  !! only 87% of dialogue <=14 words (floor 88)
+  !! final paragraph 50 words — endings run short, and this one is a paragraph, not a punch
+  !! durations 19.1/10k over ceiling 8: ['five', 'four', 'four', 'twelve']
+
+=== ch-21.md ===
+words 1809   paragraphs 108
+NARRATION  mean 11.1 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 71% (target 71, fail <65)   fragments <=4 words 21% (target ~21, fail <15)
+DIALOGUE   mean 6.9 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 91% (target 92, fail <88)
+PARAGRAPHS 1-sentence 54% (target 48-54, fail <45)   1-3 sentences 92% (target 93, fail <88)
+           108 paragraphs, 16.8 words each (§2 implies ~16-25)
+  12 narration sentence(s) over 20 words:
+    [36] He goes back to the archive, and I go back to the ledger, and neither of us mentions what happened i
+    [35] I take the ledger and go to the west wing, and behind me the study is quiet, and the question we're 
+    [35] I open the ledger at the kitchen table in the morning and I read it the way my father taught me to r
+    [33] The jaw — the same tightening I saw the first time he asked for a week, the same look of a man whose
+    [28] The obligation doesn't go into the ground with the man — it goes into the house, into the family, in
+    [27] He tells Lucian in the study that evening, and Lucian tells me, and the telling is the first time I 
+FRAGMENTS  18 runs = 10.0/1k words (§4 implies ~5.6, but see note)   sentence+1 83% (target 69)   cross a para break 44% (target 86)
+QUESTIONS  12 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 18 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 9 = 49.8/10k (ceiling 30)  [+7 idiomatic one/two, uncounted]
+           durations 33.2/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['five', 'four', 'three', 'twelve', 'twenty-three']
+FLAGS      
+  !! cardinals 49.8/10k over ceiling 30
+  !! durations 33.2/10k over ceiling 8: ['four', 'seven', 'three', 'twenty', 'two', 'two hundred']
+
+=== ch-22.md ===
+words 1935   paragraphs 120
+NARRATION  mean 11.1 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 69% (target 71, fail <65)   fragments <=4 words 30% (target ~21, fail <15)
+DIALOGUE   mean 6.5 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 88% (target 92, fail <88)
+PARAGRAPHS 1-sentence 52% (target 48-54, fail <45)   1-3 sentences 90% (target 93, fail <88)
+           120 paragraphs, 16.1 words each (§2 implies ~16-25)
+  20 narration sentence(s) over 20 words:
+    [39] I put the blade back in my coat and I go to find Selene, because she's the only person in this house
+    [38] A long one, filled with the sound of a house in the afternoon — a clock somewhere, a footstep above 
+    [34] The Aldrics are a large house, and their domestic arrangements are complicated in the way that very 
+    [32] This is about a woman in a house on neutral ground, and the particular care a man takes when the per
+    [30] He walks down the street with the gait of a man who's been sitting for ten days, and the morning sun
+    [27] Every word of it is plausible, and every word of it fits, and a man who didn't know what I know woul
+  1 dialogue sentence(s) over 18 words:
+    [21] "The same firm that holds whatever Ward left behind also manages the account that's paying Cray to s
+FRAGMENTS  24 runs = 12.4/1k words (§4 implies ~5.6, but see note)   sentence+1 83% (target 69)   cross a para break 70% (target 86)
+QUESTIONS  15 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 39 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 3 = 15.5/10k (ceiling 30)  [+14 idiomatic one/two, uncounted]
+           durations 20.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eight', 'four', 'ten']
+FLAGS      
+  !! final paragraph 39 words — endings run short, and this one is a paragraph, not a punch
+  !! durations 20.7/10k over ceiling 8: ['ten', 'ten', 'three', 'three']
+
+=== ch-23.md ===
+words 2831   paragraphs 156
+NARRATION  mean 11.5 (target 11, fail >14)   median 6 (target 10, fail >12)
+           <=14 words 70% (target 71, fail <65)   fragments <=4 words 38% (target ~21, fail <15)
+DIALOGUE   mean 7.6 (target 6.4, fail >8)   median 6 (target 5)   <=14 words 87% (target 92, fail <88)
+PARAGRAPHS 1-sentence 44% (target 48-54, fail <45)   1-3 sentences 94% (target 93, fail <88)
+           156 paragraphs, 18.1 words each (§2 implies ~16-25)
+  35 narration sentence(s) over 20 words:
+    [50] He's four hundred and twelve, and he moves like a man of thirty-five, and when he sat at Ondine's ki
+    [47] The lamp on the table beside the bed is the only light in the room, and it turns his face into somet
+    [46] We're here because the house is neutral ground and the conversation with Ondine ran late, and she of
+    [46] He's been in Ondine's kitchen for an hour, talking to her about the name behind the holding, and I l
+    [45] It rises through me in a long slow wave that has none of the violence of the car or the shower or th
+    [39] Ondine's house at night is a different thing than Ondine's house in the day — the herbs smell strong
+  3 dialogue sentence(s) over 18 words:
+    [24] "He held twenty-three payments in trust for a man he suspected would come for him, and he put your i
+    [22] "Now I've been reading it every day for two weeks and his handwriting is the only thing in this city
+    [19] "A man who restrains himself when he could do anything is a man who's chosen something harder than p
+FRAGMENTS  46 runs = 16.2/1k words (§4 implies ~5.6, but see note)   sentence+1 67% (target 69)   cross a para break 65% (target 86)
+QUESTIONS  7 total (0 in narration) — this length wants 9-12
+ENDING     final paragraph 6 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 5 = 17.7/10k (ceiling 30)  [+15 idiomatic one/two, uncounted]
+           durations 49.5/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['four hundred and twelve', 'hundred', 'thirty-five', 'twenty-three']
+FLAGS      
+  !! fragments 38% — well over the 21 measured; check whether reflective passages are shredded
+  !! only 87% of dialogue <=14 words (floor 88)
+  !! single-sentence paragraphs 44% under the 45 floor
+  !! 7 question marks against 9-12 for this length — under-pressured; who is doubting anything here?
+  !! durations 49.5/10k over ceiling 8: ['four', 'four', 'four', 'four', 'four', 'four', 'four', 'four', 'four hundred', 'three', 'three', 'three', 'twenty', 'two']
+  !! restated duration {'four': 8, 'three': 3} — state it once, trust the reader
+
+=== ch-24.md ===
+words 1768   paragraphs 86
+NARRATION  mean 13.5 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 62% (target 71, fail <65)   fragments <=4 words 31% (target ~21, fail <15)
+DIALOGUE   mean 8.7 (target 6.4, fail >8)   median 7 (target 5)   <=14 words 82% (target 92, fail <88)
+PARAGRAPHS 1-sentence 52% (target 48-54, fail <45)   1-3 sentences 87% (target 93, fail <88)
+           86 paragraphs, 20.6 words each (§2 implies ~16-25)
+  17 narration sentence(s) over 20 words:
+    [59] She stands at the window with her back to me, and the last of the daylight is on her face, and she l
+    [44] I'm betting on two things — that nobody in this room actually wants to depose a Croix, because depos
+    [44] I could say the name right now, in this room, and the war vote would die in its chair, and the chamb
+    [38] She's at the end of the table, and her hands are folded, and her face is the face of a woman who has
+    [38] She sets the jar down — dark glass, sealed with something that smells like salt and burnt sugar — an
+    [38] Marguerite has been holding them with the word *traditionally* and the specific gravity of her reput
+  2 dialogue sentence(s) over 18 words:
+    [21] "You can take this House from me and give it to someone who'll use it the way you want it used."
+    [21] "Something else happened in that room, and I am not going to declare a war until I know what it was.
+FRAGMENTS  19 runs = 10.7/1k words (§4 implies ~5.6, but see note)   sentence+1 84% (target 69)   cross a para break 78% (target 86)
+QUESTIONS  7 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 18 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 8 = 45.2/10k (ceiling 30)  [+8 idiomatic one/two, uncounted]
+           durations 56.6/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['four', 'hundred', 'six', 'thirty', 'three', 'three hundred']
+FLAGS      
+  !! only 62% of narration <=14 words (floor 65)
+  !! fragments 31% — well over the 21 measured; check whether reflective passages are shredded
+  !! dialogue mean 8.7 over 8 — clip spoken lines
+  !! only 82% of dialogue <=14 words (floor 88)
+  !! 1-3 sentence paragraphs 87% under the 88 floor
+  !! cardinals 45.2/10k over ceiling 30
+  !! durations 56.6/10k over ceiling 8: ['eight', 'eight', 'five', 'five hundred', 'one', 'one', 'one', 'one', 'one', 'twenty']
+  !! restated duration {'one': 5} — state it once, trust the reader
+  !! BRITISH SPELLING [('theatre', 1)]
+
+=== ch-25.md ===
+words 1949   paragraphs 109
+NARRATION  mean 11.3 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 72% (target 71, fail <65)   fragments <=4 words 21% (target ~21, fail <15)
+DIALOGUE   mean 7.7 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 89% (target 92, fail <88)
+PARAGRAPHS 1-sentence 52% (target 48-54, fail <45)   1-3 sentences 91% (target 93, fail <88)
+           109 paragraphs, 17.9 words each (§2 implies ~16-25)
+  20 narration sentence(s) over 20 words:
+    [37] The vampire who asks about your family asked about Gaspard's wife, and then he told the Alpha's son 
+    [35] He didn't say *I think.* He didn't say *the evidence suggests.* He said the name the way you'd say t
+    [34] The man who killed my parents is sitting beside me, and we're looking at the same water, and the thi
+    [34] He sets a crate down on the dock and straightens up, and his eyes find me, and his face does the sam
+    [32] Nobody in this house would touch a blade that belongs to someone else without asking, and nobody has
+    [31] The road goes from city to bridge to marsh to water, and the smell comes in through the vents the wa
+  2 dialogue sentence(s) over 18 words:
+    [40] "He told you my father was informing because he needed my father dead, and he needed it done by a wo
+    [31] "And because you already know you did something you can't fix, and you knew it the night you did it,
+FRAGMENTS  18 runs = 9.2/1k words (§4 implies ~5.6, but see note)   sentence+1 72% (target 69)   cross a para break 55% (target 86)
+QUESTIONS  9 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 26 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 10.3/10k (ceiling 30)  [+3 idiomatic one/two, uncounted]
+           durations 25.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eleven', 'seven']
+FLAGS      
+  !! final paragraph 26 words — endings run short, and this one is a paragraph, not a punch
+  !! durations 25.7/10k over ceiling 8: ['four', 'four', 'four', 'four', 'two']
+  !! restated duration {'four': 4} — state it once, trust the reader
+  !! BANNED PHRASES [('arithmetic', 1)]
+
+=== ch-26.md ===
+words 2163   paragraphs 117
+NARRATION  mean 11.3 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 72% (target 71, fail <65)   fragments <=4 words 28% (target ~21, fail <15)
+DIALOGUE   mean 6.7 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 87% (target 92, fail <88)
+PARAGRAPHS 1-sentence 52% (target 48-54, fail <45)   1-3 sentences 86% (target 93, fail <88)
+           117 paragraphs, 18.5 words each (§2 implies ~16-25)
+  26 narration sentence(s) over 20 words:
+    [42] She crosses the bed on her knees and she takes my face in her hands, and she holds it, and she looks
+    [42] She came into the room and sat on the bed and took her boots off, and the boots made a sound on the 
+    [36] It has a duration — a long, slow thing that moves through me like water through a held cloth, and I 
+    [35] The room is dark and quiet and the window is cracked and the night air smells like the Quarter after
+    [35] But Selene knows the name and the evidence and the day, because I told her, because she's the only p
+    [33] This is the specific tremor of a man who has been holding everything at full tension for a month and
+  1 dialogue sentence(s) over 18 words:
+    [31] "He's going to sit down in that chair and wait for me to say it, and then he's going to say *yes,* a
+FRAGMENTS  30 runs = 13.9/1k words (§4 implies ~5.6, but see note)   sentence+1 76% (target 69)   cross a para break 53% (target 86)
+QUESTIONS  3 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 33 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+9 idiomatic one/two, uncounted]
+           durations 23.1/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! only 87% of dialogue <=14 words (floor 88)
+  !! 1-3 sentence paragraphs 86% under the 88 floor
+  !! 3 question marks against 7-9 for this length — under-pressured; who is doubting anything here?
+  !! final paragraph 33 words — endings run short, and this one is a paragraph, not a punch
+  !! durations 23.1/10k over ceiling 8: ['four', 'four hundred', 'four hundred', 'three', 'three hundred']
+
+=== ch-27.md ===
+words 2043   paragraphs 113
+NARRATION  mean 11.1 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 69% (target 71, fail <65)   fragments <=4 words 30% (target ~21, fail <15)
+DIALOGUE   mean 6.2 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 93% (target 92, fail <88)
+PARAGRAPHS 1-sentence 53% (target 48-54, fail <45)   1-3 sentences 90% (target 93, fail <88)
+           113 paragraphs, 18.1 words each (§2 implies ~16-25)
+  25 narration sentence(s) over 20 words:
+    [39] He said mercy was a thing you could afford until the night you couldn't, and I told him the Code was
+    [35] The boy is out — he's holding a line I drew, and he didn't ask questions about it, which means he tr
+    [31] I've found everything there is to find — the mark, the payments, the letters, the trail that runs fr
+    [30] They're the warmest things my father ever wrote, because Cassian was the person my father was warmes
+    [30] She stands in my hallway with a bag over her shoulder and a dead man's knife in it, and she's asking
+    [30] I have been a poor friend to your grief, because I dealt with mine by building a law and you have ne
+  2 dialogue sentence(s) over 18 words:
+    [40] "If this goes the way I think it goes, the house is going to be loud afterward, and loud means scare
+    [32] "She'll tell you she's staying and she'll mean it, and you'll let her stay because you've never won 
+FRAGMENTS  28 runs = 13.7/1k words (§4 implies ~5.6, but see note)   sentence+1 67% (target 69)   cross a para break 50% (target 86)
+QUESTIONS  8 total (2 in narration) — this length wants 7-9
+ENDING     final paragraph 8 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 5 = 24.5/10k (ceiling 30)  [+11 idiomatic one/two, uncounted]
+           durations 14.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['six', 'six-fifteen', 'six-thirty']
+FLAGS      
+  !! durations 14.7/10k over ceiling 8: ['ten', 'three', 'two hundred']
+  !! 'file' as cognitive verb: ['filed them']
+
+=== ch-28.md ===
+words 2137   paragraphs 137
+NARRATION  mean 11.2 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 69% (target 71, fail <65)   fragments <=4 words 22% (target ~21, fail <15)
+DIALOGUE   mean 6.8 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 90% (target 92, fail <88)
+PARAGRAPHS 1-sentence 56% (target 48-54, fail <45)   1-3 sentences 91% (target 93, fail <88)
+           137 paragraphs, 15.6 words each (§2 implies ~16-25)
+  23 narration sentence(s) over 20 words:
+    [37] She brought me water at the edge of Barataria when I was sick from the smell of the water and the sm
+    [36] My mother goes on being a woman who was killed over who she married, because that's the story, and t
+    [32] She just chose, in front of me, between her brother's life and the truth, and she picked the truth a
+    [32] I want it out of my head and onto paper because I know what it is — I've spent long enough learning 
+    [32] His hands are open and down and he isn't putting the crate between us, and he could — the shed is fu
+    [30] She came down here because she has been living beside this with a question in her mouth, and the onl
+FRAGMENTS  24 runs = 11.2/1k words (§4 implies ~5.6, but see note)   sentence+1 87% (target 69)   cross a para break 70% (target 86)
+QUESTIONS  4 total (0 in narration) — this length wants 7-9
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+8 idiomatic one/two, uncounted]
+           durations 9.4/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! 4 question marks against 7-9 for this length — under-pressured; who is doubting anything here?
+  !! durations 9.4/10k over ceiling 8: ['four', 'four']
+
+=== ch-29.md ===
+words 1959   paragraphs 123
+NARRATION  mean 11.6 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 69% (target 71, fail <65)   fragments <=4 words 27% (target ~21, fail <15)
+DIALOGUE   mean 5.3 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 93% (target 92, fail <88)
+PARAGRAPHS 1-sentence 56% (target 48-54, fail <45)   1-3 sentences 91% (target 93, fail <88)
+           123 paragraphs, 15.9 words each (§2 implies ~16-25)
+  29 narration sentence(s) over 20 words:
+    [38] I go to the desk and I pick up the blade — the one that was his father's, the one that's keyed to on
+    [37] They're cold and stiff and the blood on them is someone else's, and I hold them the way he held my f
+    [36] She was in the trees at the edge of the road, and she was still, and she was watching me walk away f
+    [36] It doesn't mean *betrayal.* It means the opposite — it means *I love you enough to let the true thin
+    [33] I'm standing in a doorway looking at the only person in this house who ever grinned at me, and he's 
+    [32] It goes from the kitchen door to the dining room in a line that tells a story about how a body moved
+  1 dialogue sentence(s) over 18 words:
+    [27] "He put two humans behind him and he held it, and he'd never been in a fight that mattered, and he h
+FRAGMENTS  28 runs = 14.3/1k words (§4 implies ~5.6, but see note)   sentence+1 78% (target 69)   cross a para break 64% (target 86)
+QUESTIONS  8 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 16 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 3 = 15.3/10k (ceiling 30)  [+13 idiomatic one/two, uncounted]
+           durations 5.1/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eighty-nine', 'six', 'three']
+FLAGS      none
+
+=== ch-30.md ===
+words 2821   paragraphs 162
+NARRATION  mean 11.7 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 68% (target 71, fail <65)   fragments <=4 words 31% (target ~21, fail <15)
+DIALOGUE   mean 5.5 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 95% (target 92, fail <88)
+PARAGRAPHS 1-sentence 54% (target 48-54, fail <45)   1-3 sentences 91% (target 93, fail <88)
+           162 paragraphs, 17.4 words each (§2 implies ~16-25)
+  38 narration sentence(s) over 20 words:
+    [50] I should take the ledger and the knife and the boots and the bag and go back to my apartment, and th
+    [48] The staff moves through the halls in pairs, which is new, and the kitchen is clean, which is wrong —
+    [47] The machine is the only thing in the kitchen that doesn't know what happened, and the sound it makes
+    [47] The afternoon comes through the window and the house goes on making the sounds a house makes when it
+    [46] He fucks me on the floor of a room in a house where a boy died last night, and it is not pretty and 
+    [35] I know what violence looks like in a body that was built for it — the looseness after, the heat comi
+  1 dialogue sentence(s) over 18 words:
+    [32] "And this morning you washed your hands and put on a clean shirt and you've been walking through thi
+FRAGMENTS  44 runs = 15.6/1k words (§4 implies ~5.6, but see note)   sentence+1 72% (target 69)   cross a para break 52% (target 86)
+QUESTIONS  4 total (0 in narration) — this length wants 9-12
+ENDING     final paragraph 16 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 6 = 21.3/10k (ceiling 30)  [+10 idiomatic one/two, uncounted]
+           durations 3.5/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['six', 'three']
+SEX VOCAB  crude 0   soft 1   (target ~70:1)
+FLAGS      
+  !! fragments 31% — well over the 21 measured; check whether reflective passages are shredded
+  !! 4 question marks against 9-12 for this length — under-pressured; who is doubting anything here?
+
+=== ch-31.md ===
+words 1995   paragraphs 131
+NARRATION  mean 10.3 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 78% (target 71, fail <65)   fragments <=4 words 29% (target ~21, fail <15)
+DIALOGUE   mean 5.3 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 98% (target 92, fail <88)
+PARAGRAPHS 1-sentence 54% (target 48-54, fail <45)   1-3 sentences 94% (target 93, fail <88)
+           131 paragraphs, 15.2 words each (§2 implies ~16-25)
+  20 narration sentence(s) over 20 words:
+    [41] Some of them have been waiting four centuries for a Croix to do precisely this, and they'll put it i
+    [40] He's ninety years old next spring and he came to this house because my father took him off a dock in
+    [35] There was a woman behind it who has never done anything to anyone — she folds linen in a house she h
+    [35] He's put himself in a doorway with his arms out, because there are two of the household staff behind
+    [33] I could tell him he did good work on the money, which is also true, and which would cost me nothing,
+    [30] He holds it about as long as it takes me to cross the hall, and when I get there he's on his back wi
+FRAGMENTS  38 runs = 19.0/1k words (§4 implies ~5.6, but see note)   sentence+1 78% (target 69)   cross a para break 65% (target 86)
+QUESTIONS  5 total (1 in narration) — this length wants 6-9
+ENDING     final paragraph 5 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 10.0/10k (ceiling 30)  [+14 idiomatic one/two, uncounted]
+           durations 15.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['six', 'three']
+FLAGS      
+  !! 5 question marks against 6-9 for this length — under-pressured; who is doubting anything here?
+  !! durations 15.0/10k over ceiling 8: ['eighty-nine', 'four', 'ninety']
+
+=== ch-32.md ===
+words 1484   paragraphs 86
+NARRATION  mean 12.7 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 66% (target 71, fail <65)   fragments <=4 words 23% (target ~21, fail <15)
+DIALOGUE   mean 7.5 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 86% (target 92, fail <88)
+PARAGRAPHS 1-sentence 53% (target 48-54, fail <45)   1-3 sentences 90% (target 93, fail <88)
+           86 paragraphs, 17.3 words each (§2 implies ~16-25)
+  17 narration sentence(s) over 20 words:
+    [42] He stands in the hall with the lamplight on him and his hands at his sides, and he's already gone — 
+    [36] And somewhere in the city, an old man in a good coat is putting his buttons through their holes for 
+    [32] I'm in the hall outside it, sitting on a bench that's been here since before the building had electr
+    [32] I sit on the bench and I think about the difference between beautiful and correct, and whether a wom
+    [30] He's going to walk through the front door and down the hall and into the study, and he's going to se
+    [29] I can hear the breath of an eight-hundred-year-old woman through an open door, and the breath is ste
+FRAGMENTS  13 runs = 8.8/1k words (§4 implies ~5.6, but see note)   sentence+1 92% (target 69)   cross a para break 92% (target 86)
+QUESTIONS  6 total (0 in narration) — this length wants 5-6
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 6 = 40.4/10k (ceiling 30)  [+7 idiomatic one/two, uncounted]
+           durations 20.2/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['eighty-nine', 'six', 'three']
+FLAGS      
+  !! only 86% of dialogue <=14 words (floor 88)
+  !! cardinals 40.4/10k over ceiling 30
+  !! durations 20.2/10k over ceiling 8: ['eight', 'eight', 'eight-hundred']
+
+=== ch-33.md ===
+words 1782   paragraphs 111
+NARRATION  mean 10.2 (target 11, fail >14)   median 5 (target 10, fail >12)
+           <=14 words 74% (target 71, fail <65)   fragments <=4 words 38% (target ~21, fail <15)
+DIALOGUE   mean 3.6 (target 6.4, fail >8)   median 3 (target 5)   <=14 words 96% (target 92, fail <88)
+PARAGRAPHS 1-sentence 56% (target 48-54, fail <45)   1-3 sentences 95% (target 93, fail <88)
+           111 paragraphs, 16.1 words each (§2 implies ~16-25)
+  30 narration sentence(s) over 20 words:
+    [39] And at the center of it, a man who loved his friend and killed him anyway, because the friend was th
+    [38] I know this because I hear both, the way I hear both of everything, and the two meanings sit on top 
+    [38] A long stretch of it, filled with the sound of the house doing what houses do at night — settling, c
+    [35] It's the word for the thing that goes wrong in the foundation — the crack that doesn't show on the s
+    [35] I sit on the bench and I listen to the man who ordered my parents' deaths explain himself in a warm 
+    [34] Somewhere in the study, Silas is writing something down, and the Roche brothers are standing where t
+FRAGMENTS  36 runs = 20.2/1k words (§4 implies ~5.6, but see note)   sentence+1 44% (target 69)   cross a para break 55% (target 86)
+QUESTIONS  2 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 2 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 11.2/10k (ceiling 30)  [+11 idiomatic one/two, uncounted]
+           durations 11.2/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['nine-eighteen', 'three']
+FLAGS      
+  !! fragments 38% — well over the 21 measured; check whether reflective passages are shredded
+  !! fragment runs 20.2/1k AND density 38% — two independent signals agree the device is overused. Measure per section: the excess is usually in the reflective passages, not the violent ones
+  !! only 44% of fragment runs are sentence+1 (measured 69) — runs are stacking too deep
+  !! 2 question marks against 6-8 for this length — under-pressured; who is doubting anything here?
+  !! durations 11.2/10k over ceiling 8: ['four hundred', 'three']
+
+=== ch-34.md ===
+words 1928   paragraphs 146
+NARRATION  mean 10.0 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 76% (target 71, fail <65)   fragments <=4 words 20% (target ~21, fail <15)
+DIALOGUE   mean 5.6 (target 6.4, fail >8)   median 5 (target 5)   <=14 words 94% (target 92, fail <88)
+PARAGRAPHS 1-sentence 59% (target 48-54, fail <45)   1-3 sentences 93% (target 93, fail <88)
+           146 paragraphs, 13.2 words each (§2 implies ~16-25)
+  10 narration sentence(s) over 20 words:
+    [28] He sat in that chair and went through the household with me, name by name, and he was thorough about
+    [27] A sequence of questions, an order to take them in, a way to walk him into it — and he takes the whol
+    [26] His mouth opens and stays open, and his hands go still on his knees, and for a moment there is nothi
+    [26] He unbuttons his jacket and folds it over the back of the chair, and he does it neatly, because he h
+    [25] He's telling me he's given me the truth of it, and it's an old man's word for it, and it's the last 
+    [25] He puts his hands on his knees and waits, and the silence goes on long enough to be a question, and 
+FRAGMENTS  21 runs = 10.9/1k words (§4 implies ~5.6, but see note)   sentence+1 80% (target 69)   cross a para break 71% (target 86)
+QUESTIONS  11 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 1 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 1 = 5.2/10k (ceiling 30)  [+13 idiomatic one/two, uncounted]
+           durations 15.6/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['three']
+SEX VOCAB  crude 0   soft 1   (target ~70:1)
+FLAGS      
+  !! 13.2 words per paragraph — every line is its own paragraph, so the white space has no contrast left to carry. Ratios still pass; the effect is gone
+  !! durations 15.6/10k over ceiling 8: ['four', 'four', 'four hundred']
+
+=== ch-35.md ===
+words 1903   paragraphs 110
+NARRATION  mean 12.3 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 65% (target 71, fail <65)   fragments <=4 words 36% (target ~21, fail <15)
+DIALOGUE   mean 5.8 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 93% (target 92, fail <88)
+PARAGRAPHS 1-sentence 53% (target 48-54, fail <45)   1-3 sentences 90% (target 93, fail <88)
+           110 paragraphs, 17.3 words each (§2 implies ~16-25)
+  27 narration sentence(s) over 20 words:
+    [40] Delivered with almost no air, in a voice that was leaving, and I've played it in my head every night
+    [39] Thursday is the day Marguerite had the chamber cleaned, and the day the Roche brothers finished the 
+    [39] Rémy Thibodeaux and his shrimp boat have nothing to do with a crown or a chamber or the specific way
+    [38] I look at her on the bench in the courtyard of a house that is now mine by law and by crown and by t
+    [34] The house will produce a person — an adviser, a cousin, a young man with papers — and the chair will
+    [31] The coronation was an hour ago and she wasn't in the chamber, because she wasn't invited, because a 
+FRAGMENTS  30 runs = 15.8/1k words (§4 implies ~5.6, but see note)   sentence+1 66% (target 69)   cross a para break 60% (target 86)
+QUESTIONS  7 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 3 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 2 = 10.5/10k (ceiling 30)  [+8 idiomatic one/two, uncounted]
+           durations 21.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['three']
+FLAGS      
+  !! fragments 36% — well over the 21 measured; check whether reflective passages are shredded
+  !! durations 21.0/10k over ceiling 8: ['four', 'four hundred', 'hundred', 'two']
+
+=== ch-36.md ===
+words 1837   paragraphs 91
+NARRATION  mean 11.8 (target 11, fail >14)   median 8 (target 10, fail >12)
+           <=14 words 66% (target 71, fail <65)   fragments <=4 words 31% (target ~21, fail <15)
+DIALOGUE   mean 3.4 (target 6.4, fail >8)   median 3 (target 5)   <=14 words 100% (target 92, fail <88)
+PARAGRAPHS 1-sentence 43% (target 48-54, fail <45)   1-3 sentences 95% (target 93, fail <88)
+           91 paragraphs, 20.2 words each (§2 implies ~16-25)
+  26 narration sentence(s) over 20 words:
+    [42] But I smile, and the smile is a new one — not the smile I use at the bar, not the one I use for wolv
+    [41] I've sharpened it more times than I've used it, and the last time I sharpened it I was sitting on th
+    [39] But I'm going to find out, because my father left me a ledger and wrote *for S, when she asks* on th
+    [36] Something I don't have a word for — not in wolf, not in English, not in the language I've been build
+    [34] That's the thing about revenge — it promises you a zero at the end, and the zero doesn't exist, and 
+    [34] Antoine has never asked me a question that required more than a one-sentence answer, and that's why 
+FRAGMENTS  28 runs = 15.2/1k words (§4 implies ~5.6, but see note)   sentence+1 50% (target 69)   cross a para break 57% (target 86)
+QUESTIONS  4 total (0 in narration) — this length wants 6-8
+ENDING     final paragraph 10 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 4 = 21.8/10k (ceiling 30)  [+23 idiomatic one/two, uncounted]
+           durations 32.7/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['four', 'nine', 'ten', 'three']
+FLAGS      
+  !! fragments 31% — well over the 21 measured; check whether reflective passages are shredded
+  !! single-sentence paragraphs 43% under the 45 floor
+  !! 4 question marks against 6-8 for this length — under-pressured; who is doubting anything here?
+  !! durations 32.7/10k over ceiling 8: ['four', 'four', 'four', 'three', 'two', 'two']
+  !! restated duration {'four': 3} — state it once, trust the reader
+  !! BANNED PHRASES [('arithmetic', 1)]
+  !! 'file' as cognitive verb: ['filed under', 'filed under']
+
+=== epilogue.md ===
+words 2807   paragraphs 180
+NARRATION  mean 11.5 (target 11, fail >14)   median 7 (target 10, fail >12)
+           <=14 words 68% (target 71, fail <65)   fragments <=4 words 27% (target ~21, fail <15)
+DIALOGUE   mean 5.7 (target 6.4, fail >8)   median 4 (target 5)   <=14 words 94% (target 92, fail <88)
+PARAGRAPHS 1-sentence 57% (target 48-54, fail <45)   1-3 sentences 94% (target 93, fail <88)
+           180 paragraphs, 15.6 words each (§2 implies ~16-25)
+  40 narration sentence(s) over 20 words:
+    [37] In wolf there's a word for two people who share a thing without naming it — the word has *adjacent* 
+    [36] Tonight I'm going to lie here with a woman who chose me in a language she had to invent, and I'm goi
+    [36] He's above me on the bed, and his weight is on his arms, and he's looking down at me with eyes that 
+    [35] The plant is dead and the cup is clean — I washed it this morning, standing at a sink I've been stan
+    [34] She finds the place on my chest where her face goes when she sleeps, and she puts her face there, an
+    [34] His pulse is slow under my thumbs — the ancient, steady rhythm of a thing that's been alive for four
+FRAGMENTS  38 runs = 13.5/1k words (§4 implies ~5.6, but see note)   sentence+1 71% (target 69)   cross a para break 78% (target 86)
+QUESTIONS  5 total (0 in narration) — this length wants 9-12
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 4 = 14.3/10k (ceiling 30)  [+24 idiomatic one/two, uncounted]
+           durations 28.5/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+           cardinals: ['dozen', 'four', 'three']
+FLAGS      
+  !! 5 question marks against 9-12 for this length — under-pressured; who is doubting anything here?
+  !! durations 28.5/10k over ceiling 8: ['four', 'four', 'four', 'four hundred', 'four hundred', 'four hundred', 'twenty', 'two']
+  !! restated duration {'four hundred': 3, 'four': 3} — state it once, trust the reader
+
+=== I-1.md ===
+words 865   paragraphs 39
+NARRATION  mean 14.0 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 62% (target 71, fail <65)   fragments <=4 words 20% (target ~21, fail <15)
+DIALOGUE   mean 8.8 (target 6.4, fail >8)   median 7 (target 5)   <=14 words 83% (target 92, fail <88)
+PARAGRAPHS 1-sentence 46% (target 48-54, fail <45)   1-3 sentences 92% (target 93, fail <88)
+           39 paragraphs, 22.2 words each (§2 implies ~16-25)
+  13 narration sentence(s) over 20 words:
+    [38] I would say that the east door has been open to me since before this city had a name, and that a doo
+    [37] He will take it up in the morning and turn it into orders, and the orders will be thorough, and they
+    [35] I stand and gather my coat, and he stands because he was raised properly, and we say the things men 
+    [34] Aurelian was busy being a king, so it was me in the courtyard every evening, through all the years t
+    [32] He will remember it in three days and he will send someone, and she will be surprised and a little m
+    [30] I would put the rest of it in his hands and let him do what the law requires, and the law requires a
+FRAGMENTS  6 runs = 6.9/1k words (§4 implies ~5.6, but see note)   sentence+1 66% (target 69)   cross a para break 83% (target 86)
+QUESTIONS  4 total (0 in narration) — this length wants 2-3
+ENDING     final paragraph 10 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+4 idiomatic one/two, uncounted]
+           durations 11.6/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! only 62% of narration <=14 words (floor 65)
+  !! dialogue mean 8.8 over 8 — clip spoken lines
+  !! only 83% of dialogue <=14 words (floor 88)
+  !! durations 11.6/10k over ceiling 8: ['three']
+
+=== I-2.md ===
+words 818   paragraphs 43
+NARRATION  mean 10.2 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 82% (target 71, fail <65)   fragments <=4 words 15% (target ~21, fail <15)
+PARAGRAPHS 1-sentence 48% (target 48-54, fail <45)   1-3 sentences 95% (target 93, fail <88)
+           43 paragraphs, 19.0 words each (§2 implies ~16-25)
+  4 narration sentence(s) over 20 words:
+    [36] But there is a boy alive tonight who has been the strongest creature in this city since the week his
+    [30] Nor against a friend who did what the statute told him to do, in a courtyard, in front of witnesses,
+    [27] Then he went on being the man for the rest of his life, and every year of it was a year he did not t
+    [21] She had him upright with his arm across her shoulder and she talked to him the whole way to the stre
+FRAGMENTS  10 runs = 12.2/1k words (§4 implies ~5.6, but see note)   sentence+1 90% (target 69)   cross a para break 50% (target 86)
+QUESTIONS  0 total (0 in narration) — this length wants 2-3
+ENDING     final paragraph 10 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+3 idiomatic one/two, uncounted]
+           durations 0.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! zero question marks — a POV chapter with no self-interrogation is under-pressured (§2)
+
+=== I-3.md ===
+words 847   paragraphs 46
+NARRATION  mean 10.9 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 67% (target 71, fail <65)   fragments <=4 words 15% (target ~21, fail <15)
+PARAGRAPHS 1-sentence 54% (target 48-54, fail <45)   1-3 sentences 93% (target 93, fail <88)
+           46 paragraphs, 18.4 words each (§2 implies ~16-25)
+  6 narration sentence(s) over 20 words:
+    [32] Then he would put me in a chair and send for the council, and do what the Code requires of a man who
+    [31] Everything I have done would become a story about a grieving old man who went strange, and was dealt
+    [24] I go up past them most nights without seeing them, which is a thing a man can learn to do in his own
+    [23] Marguerite would say *tragic,* and she would mean it, and the whole of what I am would come to rest 
+    [23] Last week an Aldric cousin said something about the smell of her, and Lucian looked at the man until
+    [21] He will not say so for months, and he may never manage it in a sentence with a verb in it.
+FRAGMENTS  6 runs = 7.1/1k words (§4 implies ~5.6, but see note)   sentence+1 50% (target 69)   cross a para break 50% (target 86)
+QUESTIONS  0 total (0 in narration) — this length wants 2-3
+ENDING     final paragraph 19 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+2 idiomatic one/two, uncounted]
+           durations 0.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! zero question marks — a POV chapter with no self-interrogation is under-pressured (§2)
+
+=== I-4.md ===
+words 894   paragraphs 38
+NARRATION  mean 13.5 (target 11, fail >14)   median 10 (target 10, fail >12)
+           <=14 words 68% (target 71, fail <65)   fragments <=4 words 10% (target ~21, fail <15)
+PARAGRAPHS 1-sentence 39% (target 48-54, fail <45)   1-3 sentences 100% (target 93, fail <88)
+           38 paragraphs, 23.5 words each (§2 implies ~16-25)
+  11 narration sentence(s) over 20 words:
+    [48] And something came up in my chest that was almost entirely real, because he was telling me that his 
+    [43] I have asked every few days since the body came up out of the cold room, and every time he has told 
+    [43] He would arrive with a thing in his hands and set it down in front of me and wait while I looked at 
+    [38] It is not a decision he has made in a sentence — he is not yet capable of deciding to distrust me, a
+    [36] They have been ready since the funeral, and the boy has been standing in front of it with his arms o
+    [30] Aurelian would have stood up in a full chamber on the first evening and said *one of you was in this
+FRAGMENTS  6 runs = 6.7/1k words (§4 implies ~5.6, but see note)   sentence+1 83% (target 69)   cross a para break 66% (target 86)
+QUESTIONS  0 total (0 in narration) — this length wants 3-4
+ENDING     final paragraph 5 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+3 idiomatic one/two, uncounted]
+           durations 11.2/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! fragments 10% under the 15 floor — rhythm is flat
+  !! single-sentence paragraphs 39% under the 45 floor
+  !! zero question marks — a POV chapter with no self-interrogation is under-pressured (§2)
+  !! durations 11.2/10k over ceiling 8: ['two']
+
+=== I-5.md ===
+words 883   paragraphs 38
+NARRATION  mean 11.8 (target 11, fail >14)   median 9 (target 10, fail >12)
+           <=14 words 69% (target 71, fail <65)   fragments <=4 words 16% (target ~21, fail <15)
+PARAGRAPHS 1-sentence 39% (target 48-54, fail <45)   1-3 sentences 94% (target 93, fail <88)
+           38 paragraphs, 23.2 words each (§2 implies ~16-25)
+  12 narration sentence(s) over 20 words:
+    [35] And when it is done I will give him the rest, because there is a broker with a name and he is going 
+    [33] He will hate me for it when it finally arrives, and he will be a great king by then, and it will be 
+    [33] He put her in a car with a month's pay and told her to go to her sister in Lafayette, and he stood o
+    [31] He is the two of them at once, all the way down — and the Code was written to make a creature like t
+    [28] If I go to Bruges, then there is a king in this city who tells a story about an old man who went str
+    [28] He will do it himself, and he will be steady, and his hands will shake, and he will not let a single
+FRAGMENTS  7 runs = 7.9/1k words (§4 implies ~5.6, but see note)   sentence+1 71% (target 69)   cross a para break 28% (target 86)
+QUESTIONS  0 total (0 in narration) — this length wants 3-4
+ENDING     final paragraph 4 words (52% should be <=10, 27% <=5)
+NUMBERS    cardinals 0 = 0.0/10k (ceiling 30)  [+4 idiomatic one/two, uncounted]
+           durations 0.0/10k (ceiling 8)   digits 0.0/10k (ceiling 2)   measures 0.0/10k (ceiling 5)
+FLAGS      
+  !! single-sentence paragraphs 39% under the 45 floor
+  !! zero question marks — a POV chapter with no self-interrogation is under-pressured (§2)
+
+=== CORPUS (43 files) — §5 ending distribution ===
+  final paragraph <=10 words : 72%  (target 52, floor 45)
+  final paragraph <=5 words  : 46%  (target 27, floor 20)
+  ends on a question         : 2%  (target 4, ceiling 8)
+  ends on spoken dialogue    : 4%  (target 23, ceiling 30)
+  FLAGS    none
+  longest endings: ch-20.md (50w), ch-22.md (39w), ch-26.md (33w), ch-25.md (26w), ch-03.md (20w)
