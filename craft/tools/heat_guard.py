@@ -29,6 +29,14 @@ ALLOWED = {
     "ch-16.md": [("with the door locked and the cat on my feet, doing", "with the door locked and no cat, doing"),
                  ('until you forgot the cat was there."', 'until you forgot the cat ever left."')],
     "ch-18.md": [("and it's the second time I've ever heard him do it.", "twice in one night.")],
+    # 2026-10-04 continuity fix (LO approved): the shed man is forty-seven (Ch. 7), not young.
+    "ch-05.md": [('"Young and armed. He was outside', '"Armed. He was outside')],
+    # 2026-10-04 continuity fixes (LO approved): Bloodsteel is on the desk for the whole
+    # killing (ch-34 later says "the whole time"); Cassian's last word is *Verity*, not *good boy*.
+    "ch-34.md": [("The Bloodsteel is in my coat, where it's been for weeks.",
+                  "The Bloodsteel is on the desk, where I set it down before he came in.")],
+    "epilogue.md": [("the man who said *good boy* with his last breath.",
+                     "the man who said *good boy* on the study floor.")],
     # 2026-09-27 continuity fix: Selene can't be smoothed, so Lucian never took her alarm out.
     "ch-31.md": [("You take the alarm out and I let you, and afterward you heal.",
                   "You bite and I let you, and afterward you heal.")],

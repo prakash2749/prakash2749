@@ -28,7 +28,7 @@ She laughed, a young sound, younger than anything else about her. It came throug
 
 I said yes, so we're splitting the order. A wolf and a woman who smells like something a wolf can't place, buying tea from a woman in Tremé who has never once asked either of us why.
 
-Is that a friendship? I don't know what it is. Pack has a word for two people who share a thing without naming it. The word has *adjacent* in it, and *parallel,* and something that means *walking the same direction without being on the same road.*
+I don't know if it's a friendship. Pack has a word for two people who share a thing without naming it. The word has *adjacent* in it, and *parallel,* and something that means *walking the same direction without being on the same road.*
 
 ---
 
@@ -36,11 +36,11 @@ I lock the apartment with one lock, and the chain stays off.
 
 The walk to the house takes no time at all anymore, because I've been making it for a week — back and forth, apartment to house, house to apartment, living in both places and belonging to neither.
 
-That ends tonight. Who told me to? Nobody. I decided this morning, standing at the sink with a clean cup in my hand and a dead plant on the windowsill.
+That ends tonight. Nobody told me to. I decided this morning, standing at the sink with a clean cup in my hand and a dead plant on the windowsill.
 
 I'm not leaving it. I'm keeping it: the lease, the key, the one lock on the door, my shitty little kingdom, a room in the city that's mine, that has my shape in it, that I can go back to if the house gets loud.
 
-But I'm going to sleep somewhere else, in a room with a window that sticks and a door that stays open and a man who reads ledgers from the corner.
+But I'm going to sleep somewhere else, in a room with a window that sticks and a door that stays open.
 
 ---
 
@@ -48,9 +48,11 @@ But I'm going to sleep somewhere else, in a room with a window that sticks and a
 
 She comes through the front door.
 
-The front, not the side, not the service entrance, not the courtyard gate, the one with the fanlight above it that makes a stripe of light on the floor in the afternoon.
+The front, not the side, not the service door, not the courtyard gate, the one with the fanlight above it that makes a stripe of light on the floor in the afternoon.
 
 She walks across my father's stripe of light and she doesn't know it's his. I don't tell her, because some things in a house belong to the house.
+
+I'm still wearing the crown. I've had it on since the morning's business and forgotten it was there, until her eyes go to it.
 
 She's carrying the bag, the small one, the one with no room for anything except the things she's decided to keep, and the knife isn't in it. I look for its shape like I've looked for it every time she walks in, and it isn't there.
 
@@ -96,7 +98,7 @@ She's standing in my front hall with a bag over her shoulder and no reason to be
 
 "It's an annoying habit."
 
-"Those are the same thing. Didn't you know?"
+"Same habit."
 
 She smiles, and it's the real one. I've seen it three times, maybe four, with nothing in front of it and nothing behind it.
 
@@ -336,7 +338,7 @@ Now he says it in a bed with nobody listening through any wall, and it means som
 
 *My witness* is none of those.
 
-It means you saw everything: the club, the hallway, the dining room and the pantry door and the study floor, the man who said *good boy* with his last breath. You were there for all of it, awake, with both registers running, and you stayed.
+It means you saw everything: the club, the hallway, the dining room and the pantry door and the study floor, the man who said *good boy* on the study floor. You were there for all of it, awake, with both registers running, and you stayed.
 
 It isn't a word that locks from the outside. It's the person who can testify to what I am, because she was in the room.
 
@@ -370,11 +372,9 @@ It's been wrong since the second taste.
 
 There's still grief in her, softer now, settled into the foundation where it belongs. There's still fear, but she's learned to carry it, like a bag with a knife in it she's decided not to use.
 
-And underneath both of those, where the loneliness used to be, there's something else.
+And underneath both of those, where the loneliness used to be, there's a room.
 
-Is it happiness? It isn't. Love is too small a word for what she's handing me. She'd laugh at it, and she'd be right to. It's a room.
-
-She's giving me the feeling of being inside a room with the door open, a room she chose, a room where the window works and the bed is hers and the man beside her reads the pages from the corner. She's at home.
+She's giving me the feeling of being inside it with the door open, a room she chose, where the window works and the bed is hers. She's at home.
 
 For the first time in her life, she's at home somewhere, and she doesn't know it yet. I know it before she does, and I'm going to carry it now.
 
@@ -393,7 +393,7 @@ The room is still, the ledger on the table, the crown somewhere in the hall, the
 
 He closes the wound with his tongue.
 
-"Don't," I say. "Not yet. Can't you leave it?"
+"Don't," I say. "Not yet."
 
 "It's done."
 
@@ -407,7 +407,7 @@ I put my face against his chest, where the clock is still going, slow and steady
 
 He says nothing for a moment, and then: "With tonight."
 
-"Tonight's enough. Isn't it?"
+"Tonight's enough."
 
 I close my eyes, his arm around me, the door open and the city outside doing what the city does.
 
@@ -445,7 +445,7 @@ She falls asleep on me.
 
 Like she fell asleep the first night: mid-sentence, with her face in my neck, as though the sentence and the sleeping were part of the same act.
 
-Sleep? I don't want to sleep. I want to lie in this bed with a woman on my chest and a crown lying on its side in the hall and an open door letting the night in.
+I don't want to sleep. I want to lie in this bed with a woman on my chest and a crown lying on its side in the hall and an open door letting the night in.
 
 Cassian's last word is still in the room. He told me the truth, and I've let that be the end of him, and the rest can wait. Not tonight.
 
@@ -455,7 +455,7 @@ She said *stay* once, in a borrowed room, and I stayed, and I've been staying si
 
 Her hand is open on my chest, and the bedroom door is open behind her, and the city breathes.
 
-I don't move her, and that's how I've always known.
+I don't move her. I don't intend to, for anyone.
 
 ---
 
@@ -471,7 +471,7 @@ He puts the page on the table, beside the ledger. He's holding the crown in his 
 
 I look at the page: a column of names down the left margin, a different one every generation, each opened and closed in a different hand, one account under all of them, and one line of money that starts somewhere older than this house and runs through every death we've been tracking.
 
-"How long?" I ask. "How long has it been buying?"
+"How long has it been buying?" I ask.
 
 "Longer than the records go." He looks at the window. "Whatever this is, it didn't start with Cassian. He was a client, not the source."
 
@@ -479,9 +479,9 @@ It has been buying in this city longer than Cassian's grief, longer than the Cod
 
 Selene stirs on my chest, and her eyes open. She sees Silas in the doorway and the page on the table and my face.
 
-She reaches for the page and reads it, her lips moving — both registers running, even half-asleep, even here.
+She reaches for the page and reads it, her lips moving, even half-asleep.
 
-"It's the same buyer," she says. "Every one of these. Same grammar, different signature, see?"
+"It's the same buyer," she says. "Every one of these. Same grammar, different signature."
 
 "I want it," Silas says. "The account, whoever's at the other end of it."
 
